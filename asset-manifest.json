@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-games/static/css/main.951e9d4c.css",
+    "main.js": "/web-games/static/js/main.f4197874.js",
+    "index.html": "/web-games/index.html",
+    "main.951e9d4c.css.map": "/web-games/static/css/main.951e9d4c.css.map",
+    "main.f4197874.js.map": "/web-games/static/js/main.f4197874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951e9d4c.css",
+    "static/js/main.f4197874.js"
+  ]
+}
