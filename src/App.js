@@ -1,6 +1,6 @@
 import {useEffect} from "react";
 import GameHubPage from "./Hub";
-import {HashRouter, Route, Routes} from "react-router-dom";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
 import ErrorPage from "./Error";
 import Footer from "./components/Footer";
 
@@ -12,12 +12,12 @@ function App() {
     return (
         <div className="m-0 bg-background dark:bg-background-dark text-text dark:text-text-dark
                     transition-colors duration-500">
-            <HashRouter>
+            <BrowserRouter basename="/web-games">
                 <Routes>
                     <Route path="/" element={<GameHubPage/>}/>
                     <Route path="*" element={<ErrorPage/>}/>
                 </Routes>
-            </HashRouter>
+            </BrowserRouter>
 
             <Footer/>
         </div>
