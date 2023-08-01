@@ -1,6 +1,7 @@
 import {useEffect} from "react";
 import GameHubPage from "./Hub";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
+import ErrorPage from "./Error";
 
 function App() {
     useEffect(() => {
@@ -13,6 +14,7 @@ function App() {
             <BrowserRouter>
                 <Routes>
                     <Route path="/" element={<GameHubPage/>}/>
+                    <Route path="*" element={<ErrorPage/>}/>
                 </Routes>
             </BrowserRouter>
         </div>
