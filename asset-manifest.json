@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/web-games/static/css/main.4f9b2c09.css",
-    "main.js": "/web-games/static/js/main.b29e10f4.js",
+    "main.js": "/web-games/static/js/main.b5a464d4.js",
     "index.html": "/web-games/index.html",
     "main.4f9b2c09.css.map": "/web-games/static/css/main.4f9b2c09.css.map",
-    "main.b29e10f4.js.map": "/web-games/static/js/main.b29e10f4.js.map"
+    "main.b5a464d4.js.map": "/web-games/static/js/main.b5a464d4.js.map"
   },
   "entrypoints": [
     "static/css/main.4f9b2c09.css",
-    "static/js/main.b29e10f4.js"
+    "static/js/main.b5a464d4.js"
   ]
 }
