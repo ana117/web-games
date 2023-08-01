@@ -6,7 +6,7 @@ const GameHubPage = () => {
     return (
         <div className="min-h-screen py-[2rem] flex flex-col gap-y-[4rem]">
             <header>
-                <div className="flex justify-center items-center gap-x-[2rem]">
+                <div className="flex flex-col md:flex-row justify-center items-center gap-[1.5rem]">
                     <h1 className="text-6xl text-center font-bold">
                         Game Hub
                     </h1>
