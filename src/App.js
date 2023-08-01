@@ -2,6 +2,7 @@ import {useEffect} from "react";
 import GameHubPage from "./Hub";
 import {HashRouter, Route, Routes} from "react-router-dom";
 import ErrorPage from "./Error";
+import Footer from "./components/Footer";
 
 function App() {
     useEffect(() => {
@@ -17,6 +18,8 @@ function App() {
                     <Route path="*" element={<ErrorPage/>}/>
                 </Routes>
             </HashRouter>
+
+            <Footer/>
         </div>
     );
 }
