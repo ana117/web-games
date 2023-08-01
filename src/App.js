@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import {useEffect} from "react";
+import GameHubPage from "./Hub";
+import {HashRouter, Route, Routes} from "react-router-dom";
+import ErrorPage from "./Error";
+import Footer from "./components/Footer";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    useEffect(() => {
+        document.title = "Game Hub"
+    }, []);
+
+    return (
+        <div className="m-0 bg-background dark:bg-background-dark text-text dark:text-text-dark
+                    transition-colors duration-500">
+            <HashRouter>
+                <Routes>
+                    <Route path="/" element={<GameHubPage/>}/>
+                    <Route path="*" element={<ErrorPage/>}/>
+                </Routes>
+            </HashRouter>
+
+            <Footer/>
+        </div>
+    );
 }
 
 export default App;
