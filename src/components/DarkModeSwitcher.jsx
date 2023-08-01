@@ -11,7 +11,7 @@ const DarkModeSwitcher = () => {
     }
 
     return (
-        <button onClick={toggleDarkMode}
+        <button onClick={toggleDarkMode} aria-label="Toggle Dark Mode"
                 className="flex gap-[1rem] p-[0.25rem] rounded-full
                            bg-background-dark dark:bg-background
                            text-4xl text-text-dark dark:text-text">
