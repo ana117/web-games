@@ -5,10 +5,10 @@ This is a collection of simple browser games made using JavaScript / ReactJS. Th
 [Play Now!](https://ana117.github.io/web-games/)
 
 ## Games
-WIP!
+1. Memory Game
 
 ## Local Development
 1. Clone this repository
 2. Run `npm install`
 3. Run `npm start`
-4. Open [localhost:3000](http://localhost:3000) in your browser
+4. Open [localhost:3000/web-games](http://localhost:3000/web-games) in your browser
