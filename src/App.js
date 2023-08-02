@@ -3,7 +3,7 @@ import GameHubPage from "./Hub";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import ErrorPage from "./Error";
 import Footer from "./components/Footer";
-import MemoryGamePage from "./MemoryGame";
+import MemoryGamePage from "./Games/MemoryGame";
 
 function App() {
     useEffect(() => {

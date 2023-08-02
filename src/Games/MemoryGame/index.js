@@ -9,10 +9,11 @@ import {
     BiSolidMask,
     BiSolidCog
 } from "react-icons/bi";
+
 import {useEffect, useState} from "react";
 import Tile from "./Tile";
-import DarkModeSwitcher from "../components/DarkModeSwitcher";
-import Button from "../components/Button";
+import Button from "../../components/Button";
+import GamePage from "../index";
 
 
 const ICONS = [
@@ -110,13 +111,7 @@ const MemoryGamePage = () => {
 
 
     return (
-        <div className="grow py-[2rem] flex flex-col items-center gap-y-[2rem]">
-            <header
-                className="flex flex-col md:flex-row justify-center items-center gap-[1.5rem] text-center text-3xl font-bold">
-                <h1>Memory Game</h1>
-                <DarkModeSwitcher/>
-            </header>
-
+        <GamePage game="Memory Game">
             <main className="flex justify-between max-w-fit w-full gap-[2rem]">
                 <div className="w-[12rem]"/>
                 <div className="w-[31rem] h-[31rem]">
@@ -154,7 +149,7 @@ const MemoryGamePage = () => {
                     </div>
                 </div>
             </main>
-        </div>
+        </GamePage>
     )
 }
 
