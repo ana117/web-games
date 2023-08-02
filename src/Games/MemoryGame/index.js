@@ -10,7 +10,7 @@ import {
     BiSolidCog
 } from "react-icons/bi";
 
-import {useEffect, useState} from "react";
+import {useCallback, useEffect, useState} from "react";
 import Tile from "./Tile";
 import Button from "../../components/Button";
 import GamePage from "../index";
@@ -50,7 +50,7 @@ const MemoryGamePage = () => {
             .map((item, index) => ({...item, id: index, matched: false}));
     }
 
-    const resetGame = () => {
+    const resetGame = useCallback(() => {
         setChoices([null, null]);
         setDisableClick(false);
         setTurnCounter(0);
@@ -59,22 +59,11 @@ const MemoryGamePage = () => {
         setTimeout(() => {
             setTiles(shuffleTiles(ICONS));
         }, 500);
-    }
+    }, []);
 
     const resetSelection = () => {
         setChoices([null, null]);
         setDisableClick(false);
-    }
-
-    const tileMatched = () => {
-        setTileLeft(tileLeft - 1);
-        setTiles(tiles.map((tile) => {
-            if (tile.name === choices[0].name) {
-                return {...tile, matched: true}
-            } else {
-                return tile;
-            }
-        }));
     }
 
     useEffect(() => {
@@ -84,13 +73,23 @@ const MemoryGamePage = () => {
         }
 
         resetGame();
-    }, []);
+    }, [resetGame]);
 
     useEffect(() => {
+        const updateMatchStatus = () => {
+            setTileLeft(prevState => prevState - 1);
+            setTiles(prevState => prevState.map((tile) => {
+                if (tile === choices[0] || tile === choices[1]) {
+                    return {...tile, matched: true};
+                }
+                return tile;
+            }));
+        }
+
         if (choices[0] && choices[1]) {
             setDisableClick(true);
             if (choices[0].name === choices[1].name) {
-                tileMatched();
+                updateMatchStatus();
             }
             setTimeout(() => {
                 resetSelection();
@@ -108,7 +107,7 @@ const MemoryGamePage = () => {
                 resetGame();
             }, 2000);
         }
-    }, [tileLeft]);
+    }, [tileLeft, highScore, turnCounter, resetGame]);
 
 
     return (

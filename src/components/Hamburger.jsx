@@ -1,15 +1,15 @@
 import {BiMenu, BiSolidHome} from "react-icons/bi";
 import {NavLink} from "react-router-dom";
 import DarkModeSwitcher from "./DarkModeSwitcher";
-import {useState} from "react";
+import {useCallback, useState} from "react";
 import OutsideDetector from "./OutsideDetector";
 
 const Hamburger = () => {
     const [open, setOpen] = useState(false);
 
-    const handleOutsideClick = () => {
-            setOpen(false);
-    }
+    const handleOutsideClick = useCallback(() => {
+        setOpen(false);
+    }, []);
 
     return (
         <div className="lg:hidden">
