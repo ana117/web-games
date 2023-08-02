@@ -104,14 +104,22 @@ const MemoryGamePage = () => {
                 localStorage.setItem("memoryGameHighScore", JSON.stringify(turnCounter));
                 setHighScore(turnCounter);
             }
-            alert(`You win in ${turnCounter} turns!`);
-            resetGame();
+            setTimeout(() => {
+                resetGame();
+            }, 2000);
         }
     }, [tileLeft]);
 
 
     return (
         <GamePage game="Memory Game">
+            {tileLeft === 0 &&
+                <div className="absolute z-20 bg-accent rounded-xl
+                                text-4xl text-center font-semibold
+                                px-[1rem] py-[2.5rem] mx-[2rem]">
+                    You win in <span className="font-bold">{turnCounter}</span> turns!
+                </div>
+            }
             <main className="flex flex-col lg:flex-row justify-between max-w-fit w-full gap-[2rem] mt-[0.25rem]">
                 <div className="w-[12rem] hidden lg:flex"/>
                 <div className="w-[19rem] h-[19rem] lg:w-[31rem] lg:h-[31rem] min-h-fit">
