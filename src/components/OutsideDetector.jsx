@@ -14,7 +14,7 @@ const OutsideDetector = ({ handleOutsideClick, children }) => {
         return () => {
             document.removeEventListener("mousedown", handleClickOutside);
         };
-    }, [ref]);
+    }, [ref, handleOutsideClick]);
 
     return <div ref={ref}>{children}</div>;
 }
