@@ -1,9 +1,10 @@
 import DarkModeSwitcher from "../components/DarkModeSwitcher";
 import {Link} from "react-router-dom";
+import MemoryImage from "../assets/images/memory-game.png";
 
 const GameHubPage = () => {
     const games = [
-        {name: "Memory Game", path: "/memory"},
+        {name: "Memory Game", path: "/memory", image: MemoryImage}
     ];
 
     return (
@@ -24,7 +25,7 @@ const GameHubPage = () => {
                 {games.map((game) => (
                     <Link key={game.path} to={game.path} className="w-[20rem] h-[20rem] group">
                         <div className="relative w-full h-full">
-                            <img src="https://via.placeholder.com/250" alt={game.name}
+                            <img src={game.image} alt={game.name}
                                  className="absolute w-full h-full group-hover:blur-sm"/>
 
                             <div className="absolute w-full h-full bg-black/50 hidden
