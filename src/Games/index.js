@@ -6,7 +6,7 @@ const GamePage = ({children, game}) => {
     return (
         <div className="grow">
             <nav className="w-full">
-                <div className="hidden md:flex items-center gap-[2rem] text-3xl font-bold p-[1rem]">
+                <div className="hidden lg:flex items-center gap-[2rem] text-3xl font-bold p-[1rem]">
                     <div className="me-auto hover:underline underline-offset-2">
                         <NavLink to="/">Home</NavLink>
                     </div>
@@ -19,7 +19,7 @@ const GamePage = ({children, game}) => {
                 <Hamburger/>
             </nav>
 
-            <div className="flex justify-center mt-[1rem]">
+            <div className="flex justify-center mt-[5rem] lg:mt-[1rem]">
                 {children}
             </div>
         </div>

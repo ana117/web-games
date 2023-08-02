@@ -112,9 +112,9 @@ const MemoryGamePage = () => {
 
     return (
         <GamePage game="Memory Game">
-            <main className="flex justify-between max-w-fit w-full gap-[2rem]">
-                <div className="w-[12rem]"/>
-                <div className="w-[31rem] h-[31rem]">
+            <main className="flex flex-col lg:flex-row justify-between max-w-fit w-full gap-[2rem] mt-[0.25rem]">
+                <div className="w-[12rem] hidden lg:flex"/>
+                <div className="w-[19rem] h-[19rem] lg:w-[31rem] lg:h-[31rem] min-h-fit">
                     {tiles.length !== 0 ?
                         <div className="grid grid-cols-4 gap-[1rem]">
                             {tiles.map((tile) => (
@@ -131,19 +131,22 @@ const MemoryGamePage = () => {
                         </div>
                     }
                 </div>
-                <div className="w-[12rem]">
-                    <div className="flex flex-col gap-[1rem] justify-between items-center">
-                        <p className="text-2xl text-right w-full font-semibold">
+                <div className="lg:w-[12rem] mt-auto">
+                    <div className="grid grid-cols-2
+                                    lg:flex lg:flex-col gap-[1rem] justify-between items-center
+                                    text-xl  font-semibold
+                                    lg:text-2xl lg:text-right font-semibold">
+                        <p className="w-full col-span-2">
                             High Score: <span>{highScore}</span>
                         </p>
-                        <p className="text-2xl text-right w-full font-semibold">
+                        <p className="w-full">
                             Turn: <span>{turnCounter}</span>
                         </p>
-                        <p className="text-2xl text-right w-full font-semibold">
+                        <p className="w-full">
                             Tile Left: <span>{tileLeft}</span>
                         </p>
 
-                        <Button onClick={resetGame} customClass="w-[10rem]">
+                        <Button onClick={resetGame} customClass="w-full col-span-2">
                             Reset
                         </Button>
                     </div>
