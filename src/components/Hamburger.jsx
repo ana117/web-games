@@ -24,7 +24,7 @@ const Hamburger = () => {
                     </div>
                     <div className="flex flex-col items-center h-full">
                         <NavLink to="/" className="flex items-center gap-[0.5rem]">
-                            <BiSolidHome/> <p className="text-2xl font-semibold">Home</p>
+                            <BiSolidHome/> <p className="text-2xl font-bold">Home</p>
                         </NavLink>
                         <div className="mt-auto">
                             <DarkModeSwitcher/>
