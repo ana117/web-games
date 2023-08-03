@@ -1,11 +1,7 @@
 import DarkModeSwitcher from "../components/DarkModeSwitcher";
 import {Link} from "react-router-dom";
-import MemoryImage from "../assets/images/memory-game.png";
 
-const GameHubPage = () => {
-    const games = [
-        {name: "Memory Game", path: "/memory", image: MemoryImage}
-    ];
+const GameHubPage = ({games}) => {
 
     return (
         <div className="grow py-[2rem] flex flex-col gap-y-[4rem]">
