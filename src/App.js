@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import MemoryGamePage from "./Games/MemoryGame";
 import RockPaperScissorsPage from "./Games/RPS";
 import MemoryImage from "./assets/images/memory-game.png";
+import RPSImage from "./assets/images/rps.png";
 
 function App() {
     useEffect(() => {
@@ -14,7 +15,7 @@ function App() {
 
     const games = [
         {name: "Memory Game", path: "/memory", image: MemoryImage, component: MemoryGamePage},
-        {name: "Rock Paper Scissors", path: "/rps", image: MemoryImage, component: RockPaperScissorsPage},
+        {name: "Rock Paper Scissors", path: "/rps", image: RPSImage, component: RockPaperScissorsPage},
     ];
 
     return (
