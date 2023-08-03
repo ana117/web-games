@@ -1,7 +1,7 @@
 const RPSOptions = ({ options, handleSelection }) => {
     return (
         <div className="flex gap-[2rem]">
-            {Object.values(options).map((option, index) => {
+            {Object.values(options).map((option) => {
                 return (
                     <button key={option.name} onClick={() => handleSelection(option)}
                          className="text-6xl theme-dark dark:theme p-[1rem] rounded-full
