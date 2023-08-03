@@ -1,4 +1,3 @@
-import {useEffect} from "react";
 import GameHubPage from "./Hub";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import ErrorPage from "./Error";
@@ -9,10 +8,6 @@ import MemoryImage from "./assets/images/memory-game.png";
 import RPSImage from "./assets/images/rps.png";
 
 function App() {
-    useEffect(() => {
-        document.title = "Game Hub"
-    }, []);
-
     const games = [
         {name: "Memory Game", path: "/memory", image: MemoryImage, component: MemoryGamePage},
         {name: "Rock Paper Scissors", path: "/rps", image: RPSImage, component: RockPaperScissorsPage},

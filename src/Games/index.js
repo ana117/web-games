@@ -1,8 +1,13 @@
 import {NavLink} from "react-router-dom";
 import DarkModeSwitcher from "../components/DarkModeSwitcher";
 import Hamburger from "../components/Hamburger";
+import {useEffect} from "react";
 
 const GamePage = ({children, game}) => {
+    useEffect(() => {
+        document.title = game;
+    }, []);
+
     return (
         <div className="grow flex flex-col">
             <nav className="w-full">

@@ -1,7 +1,11 @@
 import DarkModeSwitcher from "../components/DarkModeSwitcher";
 import {Link} from "react-router-dom";
+import {useEffect} from "react";
 
 const GameHubPage = ({games}) => {
+    useEffect(() => {
+        document.title = "Game Hub";
+    }, []);
 
     return (
         <div className="grow py-[2rem] flex flex-col gap-y-[4rem]">
