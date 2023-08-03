@@ -1,6 +1,6 @@
 const SelectedOption = ({ option, isPlayer }) => {
     return (
-        <div className={`text-[12rem] ${isPlayer ? "rotate-90" : "-rotate-90 -scale-x-100"}`}>
+        <div className={`text-[6rem] lg:text-[12rem] ${isPlayer ? "rotate-90" : "-rotate-90 -scale-x-100"}`}>
             {option.icon}
         </div>
     );

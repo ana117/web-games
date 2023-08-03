@@ -50,12 +50,12 @@ const RockPaperScissorsPage = () => {
     useEffect(() => {
         if (playerOption && computerOption) {
             if (playerOption.name === computerOption.name) {
-                setStatus("It's a draw!");
+                setStatus("It's a draw");
             } else if (playerOption.defeats.includes(computerOption.name)) {
                 setStatus("You win!");
                 setScore(s => s + 1);
             } else {
-                setStatus("You lose!");
+                setStatus("You lose");
                 setScore(0);
             }
         }
@@ -74,13 +74,15 @@ const RockPaperScissorsPage = () => {
 
     return (
         <GamePage game="Rock Paper Scissors">
-            <div className="flex flex-col justify-between p-[4rem]">
-                <div className="grid grid-cols-3 gap-[4rem] h-[12rem]">
-                    <div className="flex justify-center">
+            <div className="flex flex-col justify-between p-[1rem] lg:p-[4rem]">
+                <div className="grid grid-cols-2 lg:grid-cols-3 gap-[4rem] lg:h-[12rem]">
+                    <div className="flex justify-center items-center">
                         {playerOption && <SelectedOption option={playerOption} isPlayer={true}/>}
                     </div>
 
-                    <div className="flex flex-col items-center justify-center gap-[2rem] text-2xl font-semibold">
+                    <div className="order-last lg:order-none col-span-2 lg:col-span-1
+                                    flex flex-col items-center justify-center gap-[2rem]
+                                    text-2xl font-semibold">
                         {status && <p className="text-4xl font-bold">{status}</p>}
                         <div className="text-center">
                             <p>Win Streak: {score}</p>
@@ -88,7 +90,7 @@ const RockPaperScissorsPage = () => {
                         </div>
                     </div>
 
-                    <div className="flex justify-center">
+                    <div className="flex justify-center items-center">
                         {computerOption && <SelectedOption option={computerOption}/>}
                     </div>
                 </div>
