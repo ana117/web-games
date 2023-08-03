@@ -6,7 +6,7 @@ import {useEffect} from "react";
 const GamePage = ({children, game}) => {
     useEffect(() => {
         document.title = game;
-    }, []);
+    }, [game]);
 
     return (
         <div className="grow flex flex-col">
