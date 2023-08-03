@@ -5,7 +5,8 @@ This is a collection of simple browser games made using JavaScript / ReactJS. Th
 [Play Now!](https://ana117.github.io/web-games/)
 
 ## Games
-1. Memory Game
+1. [Memory Game](https://ana117.github.io/web-games/memory)
+2. [Rock Paper Scissors](https://ana117.github.io/web-games/rps)
 
 ## Local Development
 1. Clone this repository
