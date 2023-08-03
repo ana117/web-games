@@ -28,8 +28,7 @@ const DarkModeSwitcher = () => {
     return (
         <button onClick={() => {enableDarkMode(!darkMode)}} aria-label="Toggle Dark Mode"
                 className="flex gap-[1rem] p-[0.25rem] rounded-full
-                           bg-background-dark dark:bg-background
-                           text-4xl text-text-dark dark:text-text">
+                           theme-dark dark:theme text-4xl">
             <BiSolidCircle className={
                 `absolute transition-transform duration-500 ${darkMode ? 'translate-x-0' : 'translate-x-[3.25rem]'}`
             }/>

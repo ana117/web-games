@@ -19,7 +19,7 @@ function App() {
 
     return (
         <div className="m-0 min-h-screen flex flex-col
-                        bg-background dark:bg-background-dark text-text dark:text-text-dark
+                        theme dark:theme-dark
                         transition-colors duration-500">
             <BrowserRouter basename="/web-games">
                 <Routes>
