@@ -138,11 +138,10 @@ const MemoryGamePage = () => {
                         </div>
                     }
                 </div>
-                <div className="lg:w-[12rem] mt-auto">
+                <div className="lg:w-[12rem] mt-auto lg:mt-0">
                     <div className="grid grid-cols-2
                                     lg:flex lg:flex-col gap-[1rem] justify-between items-center
-                                    text-xl  font-semibold
-                                    lg:text-2xl lg:text-right font-semibold">
+                                    text-xl lg:text-2xl lg:text-right font-semibold">
                         <p className="w-full col-span-2">
                             High Score: <span>{highScore}</span>
                         </p>

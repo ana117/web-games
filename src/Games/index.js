@@ -1,10 +1,15 @@
 import {NavLink} from "react-router-dom";
 import DarkModeSwitcher from "../components/DarkModeSwitcher";
 import Hamburger from "../components/Hamburger";
+import {useEffect} from "react";
 
 const GamePage = ({children, game}) => {
+    useEffect(() => {
+        document.title = game;
+    }, [game]);
+
     return (
-        <div className="grow">
+        <div className="grow flex flex-col">
             <nav className="w-full">
                 <div className="hidden lg:flex items-center gap-[2rem] text-3xl font-bold p-[1rem]">
                     <div className="me-auto hover:underline underline-offset-2">
@@ -19,7 +24,7 @@ const GamePage = ({children, game}) => {
                 <Hamburger/>
             </nav>
 
-            <div className="flex justify-center mt-[5rem] lg:mt-[1rem]">
+            <div className="flex justify-center mt-[5rem] lg:mt-[1rem] grow">
                 {children}
             </div>
         </div>

@@ -24,7 +24,13 @@ code {
     backface-visibility: hidden;
   }
 
-  .preserve-3d {
-    transform-style: preserve-3d;
+  .theme {
+    color: #121212;
+    background-color: #e7e9e9;
+  }
+
+  .theme-dark {
+    color: #e7e9e9;
+    background-color: #121212;
   }
 }
