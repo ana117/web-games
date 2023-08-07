@@ -72,7 +72,7 @@ const KoreanFlashcardsPage = () => {
                                         onClick={(e) => handleWordClick(e, word)}
                                         className="theme dark:theme-dark hover:bg-accent
                                                    rounded-xl lg:w-[12rem] text-center">
-                                    <p className="text-lg lg:text-2xl font-semibold break-words p-[2rem] rounded-xl">
+                                    <p className="text-lg lg:text-2xl font-semibold py-[2rem] break-words rounded-xl">
                                         {word.meaning}
                                     </p>
                                 </button>
