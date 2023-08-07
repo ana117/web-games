@@ -4,13 +4,28 @@ import ErrorPage from "./Error";
 import Footer from "./components/Footer";
 import MemoryGamePage from "./Games/MemoryGame";
 import RockPaperScissorsPage from "./Games/RPS";
-import MemoryImage from "./assets/images/memory-game.png";
-import RPSImage from "./assets/images/rps.png";
+import KoreanFlashcardsPage from "./Games/KoreanFlashcards";
+import {MemoryImage, RPSImage, KoreanFlashcardsImage} from "./assets/images";
 
 function App() {
     const games = [
-        {name: "Memory Game", path: "/memory", image: MemoryImage, component: MemoryGamePage},
-        {name: "Rock Paper Scissors", path: "/rps", image: RPSImage, component: RockPaperScissorsPage},
+        {
+            name: "Memory Game",
+            path: "/memory",
+            image: MemoryImage,
+            component: MemoryGamePage},
+        {
+            name: "Rock Paper Scissors",
+            path: "/rps",
+            image: RPSImage,
+            component: RockPaperScissorsPage
+        },
+        {
+            name: "Korean Flashcards",
+            path: "/korean-flashcards",
+            image: KoreanFlashcardsImage,
+            component: KoreanFlashcardsPage
+        }
     ];
 
     return (

@@ -7,6 +7,11 @@ const GameHubPage = ({games}) => {
         document.title = "Game Hub";
     }, []);
 
+    const handleImageFallback = (e) => {
+        console.log("Image not found");
+        e.target.src = "https://placehold.co/600x400";
+    }
+
     return (
         <div className="grow py-[2rem] flex flex-col gap-y-[4rem]">
             <header>
@@ -25,7 +30,7 @@ const GameHubPage = ({games}) => {
                 {games.map((game) => (
                     <Link key={game.path} to={game.path} className="w-[20rem] h-[20rem] group">
                         <div className="relative w-full h-full">
-                            <img src={game.image} alt={game.name}
+                            <img src={game.image} alt={game.name} onError={handleImageFallback}
                                  className="absolute w-full h-full group-hover:blur-sm"/>
 
                             <div className="absolute w-full h-full bg-black/50 hidden
