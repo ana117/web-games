@@ -53,25 +53,27 @@ const KoreanFlashcardsPage = () => {
 
     return (
         <GamePage game="Korean Flashcards">
-            <div className="flex flex-col lg:grid grid-cols-5 gap-[1rem] mb-[2rem]">
-                <div/>
+            <div className="flex flex-col lg:grid grid-cols-5 gap-[1rem] mb-[2rem] px-[1rem] w-full lg:w-fit">
+                <div className="hidden lg:block"/>
                 {currentWord && (
                     <div className="theme-dark dark:theme lg:w-[36rem] px-[0.5rem] py-[2rem] col-span-3
                                     flex flex-col gap-[2rem] items-center rounded-xl">
-                        <div className="text-center">
+                        <div className="text-center w-full">
                             <p className="text-4xl">{currentWord.hangul}</p>
                             {isShowingRomanized &&
                                 <p className="text-2xl italic">{currentWord.romanized}</p>
                             }
                         </div>
 
-                        <div className="grid grid-cols-2 gap-[0.5rem] lg:gap-[1.5rem]">
+                        <div className="grid grid-cols-2 justify-items-center
+                                        gap-[0.5rem] lg:gap-[1.5rem]
+                                        lg:px-[1rem] w-full">
                             {words.map((word) => (
                                 <button key={word.id}
                                         data-id={word.id}
                                         onClick={(e) => handleWordClick(e, word)}
                                         className="theme dark:theme-dark hover:bg-accent
-                                                   rounded-xl lg:w-[12rem] text-center">
+                                                   rounded-xl w-full text-center">
                                     <p className="text-lg lg:text-2xl font-semibold py-[2rem] break-words rounded-xl">
                                         {word.meaning}
                                     </p>
@@ -101,7 +103,7 @@ const KoreanFlashcardsPage = () => {
                         <p className="w-full">
                             Score: {score}
                         </p>
-                        <Button customClass="w-full col-span-2 text-lg"
+                        <Button customClass="w-full col-span-2 !text-lg"
                                 onClick={() => {
                                     setIsShowingRomanized(prev => !prev)
                                 }}>
