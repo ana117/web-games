@@ -1,0 +1,3725 @@
+{
+    "source": "https://ling-app.com/ko/topik-1-vocabulary-list",
+    "words": [
+        {
+            "id": "1",
+            "meaning": "Culture",
+            "hangul": "문화",
+            "romanized": "munhwa"
+        },
+        {
+            "id": "2",
+            "meaning": "Fat",
+            "hangul": "살",
+            "romanized": "sal"
+        },
+        {
+            "id": "3",
+            "meaning": "Too",
+            "hangul": "너무",
+            "romanized": "neomu"
+        },
+        {
+            "id": "4",
+            "meaning": "Already",
+            "hangul": "벌써",
+            "romanized": "beolsseo"
+        },
+        {
+            "id": "5",
+            "meaning": "Word",
+            "hangul": "단어",
+            "romanized": "dan-eo"
+        },
+        {
+            "id": "6",
+            "meaning": "Cold",
+            "hangul": "감기",
+            "romanized": "gamgi"
+        },
+        {
+            "id": "7",
+            "meaning": "Always",
+            "hangul": "늘",
+            "romanized": "neul"
+        },
+        {
+            "id": "8",
+            "meaning": "Flour",
+            "hangul": "밀가루",
+            "romanized": "milgalu"
+        },
+        {
+            "id": "9",
+            "meaning": "Flower",
+            "hangul": "꽃",
+            "romanized": "kkoch"
+        },
+        {
+            "id": "10",
+            "meaning": "That",
+            "hangul": "그쪽",
+            "romanized": "geujjog"
+        },
+        {
+            "id": "11",
+            "meaning": "Forty",
+            "hangul": "마흔",
+            "romanized": "maheun"
+        },
+        {
+            "id": "12",
+            "meaning": "Breakdown",
+            "hangul": "고장",
+            "romanized": "gojang"
+        },
+        {
+            "id": "13",
+            "meaning": "Quickly",
+            "hangul": "빨리",
+            "romanized": "ppalli"
+        },
+        {
+            "id": "14",
+            "meaning": "I’m Sorry",
+            "hangul": "미안하다",
+            "romanized": "mianhada"
+        },
+        {
+            "id": "15",
+            "meaning": "Them",
+            "hangul": "그들",
+            "romanized": "geudeul"
+        },
+        {
+            "id": "16",
+            "meaning": "Walk",
+            "hangul": "산책",
+            "romanized": "sanchaeg"
+        },
+        {
+            "id": "17",
+            "meaning": "Four",
+            "hangul": "넷",
+            "romanized": "nes"
+        },
+        {
+            "id": "18",
+            "meaning": "Speaking",
+            "hangul": "말하기",
+            "romanized": "malhagi"
+        },
+        {
+            "id": "19",
+            "meaning": "Blouse",
+            "hangul": "블라우스",
+            "romanized": "beullauseu"
+        },
+        {
+            "id": "20",
+            "meaning": "Pork",
+            "hangul": "돼지고기",
+            "romanized": "dwaejigogi"
+        },
+        {
+            "id": "21",
+            "meaning": "Surprised",
+            "hangul": "놀라다",
+            "romanized": "nollada"
+        },
+        {
+            "id": "22",
+            "meaning": "Wall",
+            "hangul": "벽",
+            "romanized": "byeog"
+        },
+        {
+            "id": "23",
+            "meaning": "Leave",
+            "hangul": "떠나다",
+            "romanized": "tteonada"
+        },
+        {
+            "id": "24",
+            "meaning": "See",
+            "hangul": "보다",
+            "romanized": "boda"
+        },
+        {
+            "id": "25",
+            "meaning": "Contents",
+            "hangul": "내용",
+            "romanized": "naeyong"
+        },
+        {
+            "id": "26",
+            "meaning": "Dry",
+            "hangul": "마르다",
+            "romanized": "maleuda"
+        },
+        {
+            "id": "27",
+            "meaning": "Four Seasons",
+            "hangul": "사계절",
+            "romanized": "sagyejeol"
+        },
+        {
+            "id": "28",
+            "meaning": "Dream",
+            "hangul": "꿈",
+            "romanized": "kkum"
+        },
+        {
+            "id": "29",
+            "meaning": "Snack",
+            "hangul": "과자",
+            "romanized": "gwaja"
+        },
+        {
+            "id": "30",
+            "meaning": "Be Diligent",
+            "hangul": "부지런하다",
+            "romanized": "bujileonhada"
+        },
+        {
+            "id": "31",
+            "meaning": "In A Hurry",
+            "hangul": "급하다",
+            "romanized": "geubhada"
+        },
+        {
+            "id": "32",
+            "meaning": "Rice",
+            "hangul": "밥",
+            "romanized": "bab"
+        },
+        {
+            "id": "33",
+            "meaning": "Shorts",
+            "hangul": "반바지",
+            "romanized": "banbaji"
+        },
+        {
+            "id": "34",
+            "meaning": "Sing",
+            "hangul": "노래하다",
+            "romanized": "nolaehada"
+        },
+        {
+            "id": "35",
+            "meaning": "Dog",
+            "hangul": "개",
+            "romanized": "gae"
+        },
+        {
+            "id": "36",
+            "meaning": "Mostly",
+            "hangul": "대부분",
+            "romanized": "daebubun"
+        },
+        {
+            "id": "37",
+            "meaning": "Head",
+            "hangul": "머리",
+            "romanized": "meoli"
+        },
+        {
+            "id": "38",
+            "meaning": "Personal",
+            "hangul": "개인",
+            "romanized": "gaein"
+        },
+        {
+            "id": "39",
+            "meaning": "College Student",
+            "hangul": "대학생",
+            "romanized": "daehagsaeng"
+        },
+        {
+            "id": "40",
+            "meaning": "Follow",
+            "hangul": "따라오다",
+            "romanized": "ttalaoda"
+        },
+        {
+            "id": "41",
+            "meaning": "Tie",
+            "hangul": "매다",
+            "romanized": "maeda"
+        },
+        {
+            "id": "42",
+            "meaning": "Class",
+            "hangul": "과",
+            "romanized": "gwa"
+        },
+        {
+            "id": "43",
+            "meaning": "Traffic Accident",
+            "hangul": "교통사고",
+            "romanized": "gyotongsago"
+        },
+        {
+            "id": "44",
+            "meaning": "Coin",
+            "hangul": "동전",
+            "romanized": "dongjeon"
+        },
+        {
+            "id": "45",
+            "meaning": "Class",
+            "hangul": "모임",
+            "romanized": "moim"
+        },
+        {
+            "id": "46",
+            "meaning": "Toes",
+            "hangul": "발가락",
+            "romanized": "balgalag"
+        },
+        {
+            "id": "47",
+            "meaning": "Day Before Yesterday",
+            "hangul": "그저께",
+            "romanized": "geujeokke"
+        },
+        {
+            "id": "48",
+            "meaning": "Sea",
+            "hangul": "바다",
+            "romanized": "bada"
+        },
+        {
+            "id": "49",
+            "meaning": "Parents",
+            "hangul": "부모",
+            "romanized": "bumo"
+        },
+        {
+            "id": "50",
+            "meaning": "Hospital",
+            "hangul": "병원",
+            "romanized": "byeong-won"
+        },
+        {
+            "id": "51",
+            "meaning": "Hundred",
+            "hangul": "백",
+            "romanized": "baeg"
+        },
+        {
+            "id": "52",
+            "meaning": "Sign",
+            "hangul": "사인하다",
+            "romanized": "sainhada"
+        },
+        {
+            "id": "53",
+            "meaning": "View",
+            "hangul": "경치",
+            "romanized": "gyeongchi"
+        },
+        {
+            "id": "54",
+            "meaning": "New York",
+            "hangul": "뉴욕",
+            "romanized": "nyuyog"
+        },
+        {
+            "id": "55",
+            "meaning": "My",
+            "hangul": "내",
+            "romanized": "nae"
+        },
+        {
+            "id": "56",
+            "meaning": "Cross Over",
+            "hangul": "건너가다",
+            "romanized": "geonneogada"
+        },
+        {
+            "id": "57",
+            "meaning": "High",
+            "hangul": "높다",
+            "romanized": "nopda"
+        },
+        {
+            "id": "58",
+            "meaning": "Volume",
+            "hangul": "권",
+            "romanized": "gwon"
+        },
+        {
+            "id": "59",
+            "meaning": "Rose Of Sharon",
+            "hangul": "무궁화",
+            "romanized": "mugunghwa"
+        },
+        {
+            "id": "60",
+            "meaning": "Therefore",
+            "hangul": "그래서",
+            "romanized": "geulaeseo"
+        },
+        {
+            "id": "61",
+            "meaning": "Seoul Station",
+            "hangul": "서울역",
+            "romanized": "seoul-yeog"
+        },
+        {
+            "id": "62",
+            "meaning": "Give",
+            "hangul": "드리다",
+            "romanized": "deulida"
+        },
+        {
+            "id": "63",
+            "meaning": "Stadium",
+            "hangul": "경기장",
+            "romanized": "gyeong-gijang"
+        },
+        {
+            "id": "64",
+            "meaning": "Problem",
+            "hangul": "문제",
+            "romanized": "munje"
+        },
+        {
+            "id": "65",
+            "meaning": "Date",
+            "hangul": "데이트",
+            "romanized": "deiteu"
+        },
+        {
+            "id": "66",
+            "meaning": "All",
+            "hangul": "모두",
+            "romanized": "modu"
+        },
+        {
+            "id": "67",
+            "meaning": "Eye",
+            "hangul": "눈",
+            "romanized": "nun"
+        },
+        {
+            "id": "68",
+            "meaning": "Entrepreneur",
+            "hangul": "사업가",
+            "romanized": "sa-eobga"
+        },
+        {
+            "id": "69",
+            "meaning": "Interest",
+            "hangul": "관심",
+            "romanized": "gwansim"
+        },
+        {
+            "id": "70",
+            "meaning": "First",
+            "hangul": "먼저",
+            "romanized": "meonjeo"
+        },
+        {
+            "id": "71",
+            "meaning": "Note",
+            "hangul": "노트",
+            "romanized": "noteu"
+        },
+        {
+            "id": "72",
+            "meaning": "Black Color",
+            "hangul": "검은색",
+            "romanized": "geom-eunsaeg"
+        },
+        {
+            "id": "73",
+            "meaning": "Money",
+            "hangul": "돈",
+            "romanized": "don"
+        },
+        {
+            "id": "74",
+            "meaning": "Soy Sauce",
+            "hangul": "간장",
+            "romanized": "ganjang"
+        },
+        {
+            "id": "75",
+            "meaning": "Like That",
+            "hangul": "그렇게",
+            "romanized": "geuleohge"
+        },
+        {
+            "id": "76",
+            "meaning": "Result",
+            "hangul": "결과",
+            "romanized": "gyeolgwa"
+        },
+        {
+            "id": "77",
+            "meaning": "Purpose",
+            "hangul": "목적",
+            "romanized": "mogjeog"
+        },
+        {
+            "id": "78",
+            "meaning": "Reading",
+            "hangul": "독서",
+            "romanized": "dogseo"
+        },
+        {
+            "id": "79",
+            "meaning": "Menu",
+            "hangul": "메뉴",
+            "romanized": "menyu"
+        },
+        {
+            "id": "80",
+            "meaning": "Stylish",
+            "hangul": "멋있다",
+            "romanized": "meos-issda"
+        },
+        {
+            "id": "81",
+            "meaning": "Listen",
+            "hangul": "듣다",
+            "romanized": "deudda"
+        },
+        {
+            "id": "82",
+            "meaning": "Field",
+            "hangul": "들",
+            "romanized": "deul"
+        },
+        {
+            "id": "83",
+            "meaning": "Road",
+            "hangul": "길",
+            "romanized": "gil"
+        },
+        {
+            "id": "84",
+            "meaning": "Gather",
+            "hangul": "모으다",
+            "romanized": "mo-euda"
+        },
+        {
+            "id": "85",
+            "meaning": "Each Other",
+            "hangul": "서로",
+            "romanized": "seolo"
+        },
+        {
+            "id": "86",
+            "meaning": "Alley",
+            "hangul": "골목",
+            "romanized": "golmog"
+        },
+        {
+            "id": "87",
+            "meaning": "Four Days",
+            "hangul": "나흘",
+            "romanized": "naheul"
+        },
+        {
+            "id": "88",
+            "meaning": "Hot",
+            "hangul": "덥다",
+            "romanized": "deobda"
+        },
+        {
+            "id": "89",
+            "meaning": "Bake",
+            "hangul": "굽다",
+            "romanized": "gubda"
+        },
+        {
+            "id": "90",
+            "meaning": "Put On",
+            "hangul": "끼다",
+            "romanized": "kkida"
+        },
+        {
+            "id": "91",
+            "meaning": "Teacher",
+            "hangul": "선생님",
+            "romanized": "seonsaengnim"
+        },
+        {
+            "id": "92",
+            "meaning": "United States Of America",
+            "hangul": "미국",
+            "romanized": "migug"
+        },
+        {
+            "id": "93",
+            "meaning": "Clear",
+            "hangul": "맑다",
+            "romanized": "malgda"
+        },
+        {
+            "id": "94",
+            "meaning": "Painting",
+            "hangul": "그림",
+            "romanized": "geulim"
+        },
+        {
+            "id": "95",
+            "meaning": "Banana",
+            "hangul": "바나나",
+            "romanized": "banana"
+        },
+        {
+            "id": "96",
+            "meaning": "Bibimbap",
+            "hangul": "비빔밥",
+            "romanized": "bibimbab"
+        },
+        {
+            "id": "97",
+            "meaning": "April",
+            "hangul": "사월",
+            "romanized": "sawol"
+        },
+        {
+            "id": "98",
+            "meaning": "Soap",
+            "hangul": "비누",
+            "romanized": "binu"
+        },
+        {
+            "id": "99",
+            "meaning": "Bright",
+            "hangul": "밝다",
+            "romanized": "balgda"
+        },
+        {
+            "id": "100",
+            "meaning": "Each",
+            "hangul": "각",
+            "romanized": "gag"
+        },
+        {
+            "id": "101",
+            "meaning": "Run",
+            "hangul": "달리다",
+            "romanized": "dallida"
+        },
+        {
+            "id": "102",
+            "meaning": "Future",
+            "hangul": "미래",
+            "romanized": "milae"
+        },
+        {
+            "id": "103",
+            "meaning": "Kochujang",
+            "hangul": "고추장",
+            "romanized": "gochujang"
+        },
+        {
+            "id": "104",
+            "meaning": "Comic Book",
+            "hangul": "만화",
+            "romanized": "manhwa"
+        },
+        {
+            "id": "105",
+            "meaning": "Cider",
+            "hangul": "사이다",
+            "romanized": "saida"
+        },
+        {
+            "id": "106",
+            "meaning": "Box",
+            "hangul": "상자",
+            "romanized": "sangja"
+        },
+        {
+            "id": "107",
+            "meaning": "Competition",
+            "hangul": "대회",
+            "romanized": "daehoe"
+        },
+        {
+            "id": "108",
+            "meaning": "Put",
+            "hangul": "놓다",
+            "romanized": "nohda"
+        },
+        {
+            "id": "109",
+            "meaning": "Tear",
+            "hangul": "눈물",
+            "romanized": "nunmul"
+        },
+        {
+            "id": "110",
+            "meaning": "New",
+            "hangul": "새로",
+            "romanized": "saelo"
+        },
+        {
+            "id": "111",
+            "meaning": "Past",
+            "hangul": "과거",
+            "romanized": "gwageo"
+        },
+        {
+            "id": "112",
+            "meaning": "Soybean paste",
+            "hangul": "된장",
+            "romanized": "doenjang"
+        },
+        {
+            "id": "113",
+            "meaning": "By The Way",
+            "hangul": "그런데",
+            "romanized": "geuleonde"
+        },
+        {
+            "id": "114",
+            "meaning": "Drama",
+            "hangul": "드라마",
+            "romanized": "deulama"
+        },
+        {
+            "id": "115",
+            "meaning": "Meantime",
+            "hangul": "그동안",
+            "romanized": "geudong-an"
+        },
+        {
+            "id": "116",
+            "meaning": "Wait",
+            "hangul": "기다리다",
+            "romanized": "gidalida"
+        },
+        {
+            "id": "117",
+            "meaning": "East",
+            "hangul": "동쪽",
+            "romanized": "dongjjog"
+        },
+        {
+            "id": "118",
+            "meaning": "Take A Bath",
+            "hangul": "목욕하다",
+            "romanized": "mog-yoghada"
+        },
+        {
+            "id": "119",
+            "meaning": "Next Month",
+            "hangul": "다음달",
+            "romanized": "da-eumdal"
+        },
+        {
+            "id": "120",
+            "meaning": "Soon",
+            "hangul": "금방",
+            "romanized": "geumbang"
+        },
+        {
+            "id": "121",
+            "meaning": "Egg",
+            "hangul": "달걀",
+            "romanized": "dalgyal"
+        },
+        {
+            "id": "122",
+            "meaning": "Back",
+            "hangul": "뒤",
+            "romanized": "dwi"
+        },
+        {
+            "id": "123",
+            "meaning": "Sidewalk",
+            "hangul": "보도",
+            "romanized": "bodo"
+        },
+        {
+            "id": "124",
+            "meaning": "Study",
+            "hangul": "공부",
+            "romanized": "gongbu"
+        },
+        {
+            "id": "125",
+            "meaning": "River",
+            "hangul": "강",
+            "romanized": "gang"
+        },
+        {
+            "id": "126",
+            "meaning": "Seoul",
+            "hangul": "서울",
+            "romanized": "seoul"
+        },
+        {
+            "id": "127",
+            "meaning": "Fishing",
+            "hangul": "낚시",
+            "romanized": "nakksi"
+        },
+        {
+            "id": "128",
+            "meaning": "Uncle",
+            "hangul": "삼촌",
+            "romanized": "samchon"
+        },
+        {
+            "id": "129",
+            "meaning": "Autumn",
+            "hangul": "가을",
+            "romanized": "ga-eul"
+        },
+        {
+            "id": "130",
+            "meaning": "Shrimp",
+            "hangul": "새우",
+            "romanized": "saeu"
+        },
+        {
+            "id": "131",
+            "meaning": "Crossroad",
+            "hangul": "사거리",
+            "romanized": "sageoli"
+        },
+        {
+            "id": "132",
+            "meaning": "Long",
+            "hangul": "길다",
+            "romanized": "gilda"
+        },
+        {
+            "id": "133",
+            "meaning": "To Be Nervous",
+            "hangul": "긴장되다",
+            "romanized": "ginjangdoeda"
+        },
+        {
+            "id": "134",
+            "meaning": "Tokyo",
+            "hangul": "도쿄",
+            "romanized": "dokyo"
+        },
+        {
+            "id": "135",
+            "meaning": "Reading Room",
+            "hangul": "독서실",
+            "romanized": "dogseosil"
+        },
+        {
+            "id": "136",
+            "meaning": "Warm",
+            "hangul": "따뜻하다",
+            "romanized": "ttatteushada"
+        },
+        {
+            "id": "137",
+            "meaning": "Message",
+            "hangul": "메시지",
+            "romanized": "mesiji"
+        },
+        {
+            "id": "138",
+            "meaning": "Thank",
+            "hangul": "감사하다",
+            "romanized": "gamsahada"
+        },
+        {
+            "id": "139",
+            "meaning": "Strawberry",
+            "hangul": "딸기",
+            "romanized": "ttalgi"
+        },
+        {
+            "id": "140",
+            "meaning": "Fourty",
+            "hangul": "사십",
+            "romanized": "sasib"
+        },
+        {
+            "id": "141",
+            "meaning": "Beer",
+            "hangul": "맥주",
+            "romanized": "maegju"
+        },
+        {
+            "id": "142",
+            "meaning": "Nice To Meet You",
+            "hangul": "반갑습니다",
+            "romanized": "bangabseubnida"
+        },
+        {
+            "id": "143",
+            "meaning": "Please",
+            "hangul": "꼭",
+            "romanized": "kkog"
+        },
+        {
+            "id": "144",
+            "meaning": "Turn Off",
+            "hangul": "끄다",
+            "romanized": "kkeuda"
+        },
+        {
+            "id": "145",
+            "meaning": "Read",
+            "hangul": "독서하다",
+            "romanized": "dogseohada"
+        },
+        {
+            "id": "146",
+            "meaning": "Change",
+            "hangul": "바뀌다",
+            "romanized": "bakkwida"
+        },
+        {
+            "id": "147",
+            "meaning": "Director",
+            "hangul": "부장",
+            "romanized": "bujang"
+        },
+        {
+            "id": "148",
+            "meaning": "Worry",
+            "hangul": "걱정",
+            "romanized": "geogjeong"
+        },
+        {
+            "id": "149",
+            "meaning": "Different",
+            "hangul": "다른",
+            "romanized": "daleun"
+        },
+        {
+            "id": "150",
+            "meaning": "Decision",
+            "hangul": "결정",
+            "romanized": "gyeoljeong"
+        },
+        {
+            "id": "151",
+            "meaning": "Mountaineering Clothes",
+            "hangul": "등산복",
+            "romanized": "deungsanbog"
+        },
+        {
+            "id": "152",
+            "meaning": "Dawn",
+            "hangul": "새벽",
+            "romanized": "saebyeog"
+        },
+        {
+            "id": "153",
+            "meaning": "Vacation",
+            "hangul": "방학",
+            "romanized": "banghag"
+        },
+        {
+            "id": "154",
+            "meaning": "Dirty",
+            "hangul": "더럽다",
+            "romanized": "deoleobda"
+        },
+        {
+            "id": "155",
+            "meaning": "Surprise",
+            "hangul": "깜짝",
+            "romanized": "kkamjjag"
+        },
+        {
+            "id": "156",
+            "meaning": "Namdaemun Market",
+            "hangul": "남대문시장",
+            "romanized": "namdaemunsijang"
+        },
+        {
+            "id": "157",
+            "meaning": "Soup",
+            "hangul": "국",
+            "romanized": "gug"
+        },
+        {
+            "id": "158",
+            "meaning": "Announcement",
+            "hangul": "발표",
+            "romanized": "balpyo"
+        },
+        {
+            "id": "159",
+            "meaning": "Buy",
+            "hangul": "사",
+            "romanized": "sa"
+        },
+        {
+            "id": "160",
+            "meaning": "Beijing",
+            "hangul": "베이징",
+            "romanized": "beijing"
+        },
+        {
+            "id": "161",
+            "meaning": "Only",
+            "hangul": "뿐",
+            "romanized": "ppun"
+        },
+        {
+            "id": "162",
+            "meaning": "Get Hurt",
+            "hangul": "다치다",
+            "romanized": "dachida"
+        },
+        {
+            "id": "163",
+            "meaning": "Sick",
+            "hangul": "몸살",
+            "romanized": "momsal"
+        },
+        {
+            "id": "164",
+            "meaning": "However",
+            "hangul": "그러나",
+            "romanized": "geuleona"
+        },
+        {
+            "id": "165",
+            "meaning": "Put In",
+            "hangul": "넣다",
+            "romanized": "neohda"
+        },
+        {
+            "id": "166",
+            "meaning": "Substitute",
+            "hangul": "교체",
+            "romanized": "gyoche"
+        },
+        {
+            "id": "167",
+            "meaning": "Spring",
+            "hangul": "봄",
+            "romanized": "bom"
+        },
+        {
+            "id": "168",
+            "meaning": "What",
+            "hangul": "무슨",
+            "romanized": "museun"
+        },
+        {
+            "id": "169",
+            "meaning": "Hometown",
+            "hangul": "고향",
+            "romanized": "gohyang"
+        },
+        {
+            "id": "170",
+            "meaning": "Park",
+            "hangul": "공원",
+            "romanized": "gong-won"
+        },
+        {
+            "id": "171",
+            "meaning": "Potato",
+            "hangul": "감자",
+            "romanized": "gamja"
+        },
+        {
+            "id": "172",
+            "meaning": "Art Gallery",
+            "hangul": "미술관",
+            "romanized": "misulgwan"
+        },
+        {
+            "id": "173",
+            "meaning": "Star",
+            "hangul": "별",
+            "romanized": "byeol"
+        },
+        {
+            "id": "174",
+            "meaning": "Take Off",
+            "hangul": "내리다",
+            "romanized": "naelida"
+        },
+        {
+            "id": "175",
+            "meaning": "Domestic",
+            "hangul": "국내",
+            "romanized": "gugnae"
+        },
+        {
+            "id": "176",
+            "meaning": "Puppy",
+            "hangul": "강아지",
+            "romanized": "gang-aji"
+        },
+        {
+            "id": "177",
+            "meaning": "Ask",
+            "hangul": "묻다",
+            "romanized": "mudda"
+        },
+        {
+            "id": "178",
+            "meaning": "Public Official",
+            "hangul": "공무원",
+            "romanized": "gongmuwon"
+        },
+        {
+            "id": "179",
+            "meaning": "Gyeongju",
+            "hangul": "경주",
+            "romanized": "gyeongju"
+        },
+        {
+            "id": "180",
+            "meaning": "Ring",
+            "hangul": "반지",
+            "romanized": "banji"
+        },
+        {
+            "id": "181",
+            "meaning": "Clean",
+            "hangul": "깨끗하다",
+            "romanized": "kkaekkeushada"
+        },
+        {
+            "id": "182",
+            "meaning": "Color",
+            "hangul": "색",
+            "romanized": "saeg"
+        },
+        {
+            "id": "183",
+            "meaning": "Bad",
+            "hangul": "나쁘다",
+            "romanized": "nappeuda"
+        },
+        {
+            "id": "184",
+            "meaning": "Finish",
+            "hangul": "끝내다",
+            "romanized": "kkeutnaeda"
+        },
+        {
+            "id": "185",
+            "meaning": "Next Week",
+            "hangul": "다음주",
+            "romanized": "da-eumju"
+        },
+        {
+            "id": "186",
+            "meaning": "Sideline",
+            "hangul": "부업",
+            "romanized": "bueob"
+        },
+        {
+            "id": "187",
+            "meaning": "Go Down",
+            "hangul": "내려가다",
+            "romanized": "naelyeogada"
+        },
+        {
+            "id": "188",
+            "meaning": "Later",
+            "hangul": "나중",
+            "romanized": "najung"
+        },
+        {
+            "id": "189",
+            "meaning": "Who",
+            "hangul": "누가",
+            "romanized": "nuga"
+        },
+        {
+            "id": "190",
+            "meaning": "Tour",
+            "hangul": "관광하다",
+            "romanized": "gwangwanghada"
+        },
+        {
+            "id": "191",
+            "meaning": "Payphone",
+            "hangul": "공중전화",
+            "romanized": "gongjungjeonhwa"
+        },
+        {
+            "id": "192",
+            "meaning": "Winter Vacation",
+            "hangul": "겨울방학",
+            "romanized": "gyeoulbanghag"
+        },
+        {
+            "id": "193",
+            "meaning": "Thought",
+            "hangul": "생각",
+            "romanized": "saeng-gag"
+        },
+        {
+            "id": "194",
+            "meaning": "In Addition",
+            "hangul": "또",
+            "romanized": "tto"
+        },
+        {
+            "id": "195",
+            "meaning": "Earn",
+            "hangul": "벌다",
+            "romanized": "beolda"
+        },
+        {
+            "id": "196",
+            "meaning": "Service",
+            "hangul": "서비스",
+            "romanized": "seobiseu"
+        },
+        {
+            "id": "197",
+            "meaning": "Wedding",
+            "hangul": "결혼",
+            "romanized": "gyeolhon"
+        },
+        {
+            "id": "198",
+            "meaning": "Wind",
+            "hangul": "바람",
+            "romanized": "balam"
+        },
+        {
+            "id": "199",
+            "meaning": "Noodle",
+            "hangul": "국수",
+            "romanized": "gugsu"
+        },
+        {
+            "id": "200",
+            "meaning": "Cover",
+            "hangul": "덮다",
+            "romanized": "deopda"
+        },
+        {
+            "id": "201",
+            "meaning": "Police",
+            "hangul": "경찰",
+            "romanized": "gyeongchal"
+        },
+        {
+            "id": "202",
+            "meaning": "New Year",
+            "hangul": "설날",
+            "romanized": "seolnal"
+        },
+        {
+            "id": "203",
+            "meaning": "More",
+            "hangul": "더",
+            "romanized": "deo"
+        },
+        {
+            "id": "204",
+            "meaning": "Half A Year",
+            "hangul": "반년",
+            "romanized": "bannyeon"
+        },
+        {
+            "id": "205",
+            "meaning": "Hold",
+            "hangul": "들다",
+            "romanized": "deulda"
+        },
+        {
+            "id": "206",
+            "meaning": "Employee",
+            "hangul": "사원",
+            "romanized": "sawon"
+        },
+        {
+            "id": "207",
+            "meaning": "North And South",
+            "hangul": "남북",
+            "romanized": "nambug"
+        },
+        {
+            "id": "208",
+            "meaning": "Cold Medicine",
+            "hangul": "감기약",
+            "romanized": "gamgiyag"
+        },
+        {
+            "id": "209",
+            "meaning": "If",
+            "hangul": "만일",
+            "romanized": "man-il"
+        },
+        {
+            "id": "210",
+            "meaning": "Buy",
+            "hangul": "사다",
+            "romanized": "sada"
+        },
+        {
+            "id": "211",
+            "meaning": "Three-Way Intersection",
+            "hangul": "삼거리",
+            "romanized": "samgeoli"
+        },
+        {
+            "id": "212",
+            "meaning": "City",
+            "hangul": "도시",
+            "romanized": "dosi"
+        },
+        {
+            "id": "213",
+            "meaning": "Heavy",
+            "hangul": "무겁다",
+            "romanized": "mugeobda"
+        },
+        {
+            "id": "214",
+            "meaning": "Sister",
+            "hangul": "누나",
+            "romanized": "nuna"
+        },
+        {
+            "id": "215",
+            "meaning": "Way",
+            "hangul": "방법",
+            "romanized": "bangbeob"
+        },
+        {
+            "id": "216",
+            "meaning": "Day",
+            "hangul": "날",
+            "romanized": "nal"
+        },
+        {
+            "id": "217",
+            "meaning": "Dictionary",
+            "hangul": "사전",
+            "romanized": "sajeon"
+        },
+        {
+            "id": "218",
+            "meaning": "Development",
+            "hangul": "발전",
+            "romanized": "baljeon"
+        },
+        {
+            "id": "219",
+            "meaning": "Etc",
+            "hangul": "기타",
+            "romanized": "gita"
+        },
+        {
+            "id": "220",
+            "meaning": "Lecture",
+            "hangul": "강좌",
+            "romanized": "gangjwa"
+        },
+        {
+            "id": "221",
+            "meaning": "Have",
+            "hangul": "갖다",
+            "romanized": "gajda"
+        },
+        {
+            "id": "222",
+            "meaning": "Bottom",
+            "hangul": "밑",
+            "romanized": "mit"
+        },
+        {
+            "id": "223",
+            "meaning": "Date",
+            "hangul": "날짜",
+            "romanized": "naljja"
+        },
+        {
+            "id": "224",
+            "meaning": "That",
+            "hangul": "그것",
+            "romanized": "geugeos"
+        },
+        {
+            "id": "225",
+            "meaning": "Furniture",
+            "hangul": "가구",
+            "romanized": "gagu"
+        },
+        {
+            "id": "226",
+            "meaning": "Tobacco",
+            "hangul": "담배",
+            "romanized": "dambae"
+        },
+        {
+            "id": "227",
+            "meaning": "Low",
+            "hangul": "낮다",
+            "romanized": "najda"
+        },
+        {
+            "id": "228",
+            "meaning": "Bulgogi",
+            "hangul": "불고기",
+            "romanized": "bulgogi"
+        },
+        {
+            "id": "229",
+            "meaning": "Exceed",
+            "hangul": "넘다",
+            "romanized": "neomda"
+        },
+        {
+            "id": "230",
+            "meaning": "Term",
+            "hangul": "기간",
+            "romanized": "gigan"
+        },
+        {
+            "id": "231",
+            "meaning": "Me",
+            "hangul": "나",
+            "romanized": "na"
+        },
+        {
+            "id": "232",
+            "meaning": "Family",
+            "hangul": "가족",
+            "romanized": "gajog"
+        },
+        {
+            "id": "233",
+            "meaning": "Aunt",
+            "hangul": "고모",
+            "romanized": "gomo"
+        },
+        {
+            "id": "234",
+            "meaning": "Road Name",
+            "hangul": "도로",
+            "romanized": "dolo"
+        },
+        {
+            "id": "235",
+            "meaning": "Dumpling",
+            "hangul": "만두",
+            "romanized": "mandu"
+        },
+        {
+            "id": "236",
+            "meaning": "Suddenly",
+            "hangul": "갑자기",
+            "romanized": "gabjagi"
+        },
+        {
+            "id": "237",
+            "meaning": "Together",
+            "hangul": "같이",
+            "romanized": "gat-i"
+        },
+        {
+            "id": "238",
+            "meaning": "Mandarin",
+            "hangul": "귤",
+            "romanized": "gyul"
+        },
+        {
+            "id": "239",
+            "meaning": "Dancing",
+            "hangul": "무용",
+            "romanized": "muyong"
+        },
+        {
+            "id": "240",
+            "meaning": "Word",
+            "hangul": "말",
+            "romanized": "mal"
+        },
+        {
+            "id": "241",
+            "meaning": "Side Dish",
+            "hangul": "반찬",
+            "romanized": "banchan"
+        },
+        {
+            "id": "242",
+            "meaning": "Full",
+            "hangul": "배부르다",
+            "romanized": "baebuleuda"
+        },
+        {
+            "id": "243",
+            "meaning": "Tofu Stew",
+            "hangul": "두부찌개",
+            "romanized": "dubujjigae"
+        },
+        {
+            "id": "244",
+            "meaning": "Be Accompanied",
+            "hangul": "데리다",
+            "romanized": "delida"
+        },
+        {
+            "id": "245",
+            "meaning": "To go",
+            "hangul": "가다",
+            "romanized": "gada"
+        },
+        {
+            "id": "246",
+            "meaning": "Building",
+            "hangul": "빌딩",
+            "romanized": "bilding"
+        },
+        {
+            "id": "247",
+            "meaning": "Number",
+            "hangul": "번호",
+            "romanized": "beon"
+        },
+        {
+            "id": "248",
+            "meaning": "Can Not Do It",
+            "hangul": "못하다",
+            "romanized": "mothada"
+        },
+        {
+            "id": "249",
+            "meaning": "Be Broken",
+            "hangul": "깨지다",
+            "romanized": "kkaejida"
+        },
+        {
+            "id": "250",
+            "meaning": "Establishment",
+            "hangul": "국립",
+            "romanized": "guglib"
+        },
+        {
+            "id": "251",
+            "meaning": "Graduate School",
+            "hangul": "대학원",
+            "romanized": "daehag-won"
+        },
+        {
+            "id": "252",
+            "meaning": "Not Delicious",
+            "hangul": "맛없다",
+            "romanized": "mas-eobsda"
+        },
+        {
+            "id": "253",
+            "meaning": "Meter",
+            "hangul": "미터",
+            "romanized": "miteo"
+        },
+        {
+            "id": "254",
+            "meaning": "Bread",
+            "hangul": "빵",
+            "romanized": "ppang"
+        },
+        {
+            "id": "255",
+            "meaning": "Brazil",
+            "hangul": "브라질",
+            "romanized": "beulajil"
+        },
+        {
+            "id": "256",
+            "meaning": "Voice",
+            "hangul": "목소리",
+            "romanized": "mogsoli"
+        },
+        {
+            "id": "257",
+            "meaning": "Tree",
+            "hangul": "나무",
+            "romanized": "namu"
+        },
+        {
+            "id": "258",
+            "meaning": "Fruit",
+            "hangul": "과일",
+            "romanized": "gwail"
+        },
+        {
+            "id": "259",
+            "meaning": "Basketball",
+            "hangul": "농구",
+            "romanized": "nong-gu"
+        },
+        {
+            "id": "260",
+            "meaning": "South America",
+            "hangul": "남미",
+            "romanized": "nammi"
+        },
+        {
+            "id": "261",
+            "meaning": "You",
+            "hangul": "당신",
+            "romanized": "dangsin"
+        },
+        {
+            "id": "262",
+            "meaning": "Pepper",
+            "hangul": "고추",
+            "romanized": "gochu"
+        },
+        {
+            "id": "263",
+            "meaning": "Drink",
+            "hangul": "마시다",
+            "romanized": "masida"
+        },
+        {
+            "id": "264",
+            "meaning": "To Walk",
+            "hangul": "걷다",
+            "romanized": "geodda"
+        },
+        {
+            "id": "265",
+            "meaning": "A Lot Of",
+            "hangul": "많이",
+            "romanized": "manh-i"
+        },
+        {
+            "id": "266",
+            "meaning": "Florist",
+            "hangul": "꽃집",
+            "romanized": "kkochjib"
+        },
+        {
+            "id": "267",
+            "meaning": "Come In",
+            "hangul": "들어오다",
+            "romanized": "deul-eooda"
+        },
+        {
+            "id": "268",
+            "meaning": "Atmosphere",
+            "hangul": "분위기",
+            "romanized": "bun-wigi"
+        },
+        {
+            "id": "269",
+            "meaning": "Just",
+            "hangul": "그냥",
+            "romanized": "geunyang"
+        },
+        {
+            "id": "270",
+            "meaning": "Wound",
+            "hangul": "상처",
+            "romanized": "sangcheo"
+        },
+        {
+            "id": "271",
+            "meaning": "Gain",
+            "hangul": "늘다",
+            "romanized": "neulda"
+        },
+        {
+            "id": "272",
+            "meaning": "Complicated",
+            "hangul": "복잡하다",
+            "romanized": "bogjabhada"
+        },
+        {
+            "id": "273",
+            "meaning": "Kitchen",
+            "hangul": "부엌",
+            "romanized": "bueok"
+        },
+        {
+            "id": "274",
+            "meaning": "Volleyball",
+            "hangul": "배구",
+            "romanized": "baegu"
+        },
+        {
+            "id": "275",
+            "meaning": "Pronunciation",
+            "hangul": "발음",
+            "romanized": "bal-eum"
+        },
+        {
+            "id": "276",
+            "meaning": "Necktie",
+            "hangul": "넥타이",
+            "romanized": "negtai"
+        },
+        {
+            "id": "277",
+            "meaning": "Writing",
+            "hangul": "글",
+            "romanized": "geul"
+        },
+        {
+            "id": "278",
+            "meaning": "Swarm",
+            "hangul": "무리",
+            "romanized": "muli"
+        },
+        {
+            "id": "279",
+            "meaning": "Bowl",
+            "hangul": "그릇",
+            "romanized": "geuleus"
+        },
+        {
+            "id": "280",
+            "meaning": "Watch",
+            "hangul": "구경하다",
+            "romanized": "gugyeonghada"
+        },
+        {
+            "id": "281",
+            "meaning": "Plan",
+            "hangul": "계획",
+            "romanized": "gyehoeg"
+        },
+        {
+            "id": "282",
+            "meaning": "Bus",
+            "hangul": "버스",
+            "romanized": "beoseu"
+        },
+        {
+            "id": "283",
+            "meaning": "Thanks For",
+            "hangul": "덕분",
+            "romanized": "deogbun"
+        },
+        {
+            "id": "284",
+            "meaning": "Some",
+            "hangul": "몇",
+            "romanized": "myeoch"
+        },
+        {
+            "id": "285",
+            "meaning": "Brother",
+            "hangul": "동생",
+            "romanized": "dongsaeng"
+        },
+        {
+            "id": "286",
+            "meaning": "Day After Tomorrow",
+            "hangul": "모레",
+            "romanized": "mole"
+        },
+        {
+            "id": "287",
+            "meaning": "Thursday",
+            "hangul": "목요일",
+            "romanized": "mog-yoil"
+        },
+        {
+            "id": "288",
+            "meaning": "Police Office",
+            "hangul": "경찰서",
+            "romanized": "gyeongchalseo"
+        },
+        {
+            "id": "289",
+            "meaning": "Late",
+            "hangul": "늦다",
+            "romanized": "neujda"
+        },
+        {
+            "id": "290",
+            "meaning": "Show",
+            "hangul": "공연",
+            "romanized": "gong-yeon"
+        },
+        {
+            "id": "291",
+            "meaning": "There",
+            "hangul": "그곳",
+            "romanized": "geugos"
+        },
+        {
+            "id": "292",
+            "meaning": "Embassy",
+            "hangul": "대사관",
+            "romanized": "daesagwan"
+        },
+        {
+            "id": "293",
+            "meaning": "Price",
+            "hangul": "가격",
+            "romanized": "gagyeog"
+        },
+        {
+            "id": "294",
+            "meaning": "Resemble",
+            "hangul": "닮다",
+            "romanized": "dalmda"
+        },
+        {
+            "id": "295",
+            "meaning": "Different",
+            "hangul": "다르다",
+            "romanized": "daleuda"
+        },
+        {
+            "id": "296",
+            "meaning": "Afternoon",
+            "hangul": "낮",
+            "romanized": "naj"
+        },
+        {
+            "id": "297",
+            "meaning": "Eastern",
+            "hangul": "동양",
+            "romanized": "dong-yang"
+        },
+        {
+            "id": "298",
+            "meaning": "Traffic",
+            "hangul": "교통",
+            "romanized": "gyotong"
+        },
+        {
+            "id": "299",
+            "meaning": "Year",
+            "hangul": "년",
+            "romanized": "nyeon"
+        },
+        {
+            "id": "300",
+            "meaning": "Calculate",
+            "hangul": "계산하다",
+            "romanized": "gyesanhada"
+        },
+        {
+            "id": "301",
+            "meaning": "That",
+            "hangul": "그런",
+            "romanized": "geureon"
+        },
+        {
+            "id": "302",
+            "meaning": "Feel",
+            "hangul": "느끼다",
+            "romanized": "neukkida"
+        },
+        {
+            "id": "303",
+            "meaning": "Textbook",
+            "hangul": "교과서",
+            "romanized": "gyogwaseo"
+        },
+        {
+            "id": "304",
+            "meaning": "Museum",
+            "hangul": "박물관",
+            "romanized": "bagmulgwan"
+        },
+        {
+            "id": "305",
+            "meaning": "Air",
+            "hangul": "공기",
+            "romanized": "gong-gi"
+        },
+        {
+            "id": "306",
+            "meaning": "Kimchi Stew",
+            "hangul": "김치찌개",
+            "romanized": "gimchijjigae"
+        },
+        {
+            "id": "307",
+            "meaning": "Continue",
+            "hangul": "계속",
+            "romanized": "gyesog"
+        },
+        {
+            "id": "308",
+            "meaning": "Last",
+            "hangul": "마지막",
+            "romanized": "majimag"
+        },
+        {
+            "id": "309",
+            "meaning": "Moon",
+            "hangul": "달",
+            "romanized": "dal"
+        },
+        {
+            "id": "310",
+            "meaning": "Touch",
+            "hangul": "만지다",
+            "romanized": "manjida"
+        },
+        {
+            "id": "311",
+            "meaning": "Design",
+            "hangul": "디자인",
+            "romanized": "dijain"
+        },
+        {
+            "id": "312",
+            "meaning": "Uncomfortable",
+            "hangul": "불편하다",
+            "romanized": "bulpyeonhada"
+        },
+        {
+            "id": "313",
+            "meaning": "Goods",
+            "hangul": "상품",
+            "romanized": "sangpum"
+        },
+        {
+            "id": "314",
+            "meaning": "Gimpo International Airport",
+            "hangul": "김포공항",
+            "romanized": "gimpogonghang"
+        },
+        {
+            "id": "315",
+            "meaning": "Taste",
+            "hangul": "맛",
+            "romanized": "mas"
+        },
+        {
+            "id": "316",
+            "meaning": "Relation",
+            "hangul": "상관",
+            "romanized": "sang-gwan"
+        },
+        {
+            "id": "317",
+            "meaning": "Lotion",
+            "hangul": "로션",
+            "romanized": "losyeon"
+        },
+        {
+            "id": "318",
+            "meaning": "Many",
+            "hangul": "많다",
+            "romanized": "manhda"
+        },
+        {
+            "id": "319",
+            "meaning": "Apologize",
+            "hangul": "사과",
+            "romanized": "sagwa"
+        },
+        {
+            "id": "320",
+            "meaning": "Hot",
+            "hangul": "뜨겁다",
+            "romanized": "tteugeobda"
+        },
+        {
+            "id": "321",
+            "meaning": "Meaning",
+            "hangul": "뜻",
+            "romanized": "tteus"
+        },
+        {
+            "id": "322",
+            "meaning": "Game",
+            "hangul": "게임",
+            "romanized": "geim"
+        },
+        {
+            "id": "323",
+            "meaning": "Elder",
+            "hangul": "선배",
+            "romanized": "seonbae"
+        },
+        {
+            "id": "324",
+            "meaning": "Minute",
+            "hangul": "분",
+            "romanized": "bun"
+        },
+        {
+            "id": "325",
+            "meaning": "Think",
+            "hangul": "생각하다",
+            "romanized": "saeng-gaghada"
+        },
+        {
+            "id": "326",
+            "meaning": "Shampoo",
+            "hangul": "샴푸",
+            "romanized": "syampu"
+        },
+        {
+            "id": "327",
+            "meaning": "Second",
+            "hangul": "둘째",
+            "romanized": "duljjae"
+        },
+        {
+            "id": "328",
+            "meaning": "Impressed",
+            "hangul": "감동하다",
+            "romanized": "gamdonghada"
+        },
+        {
+            "id": "329",
+            "meaning": "Share",
+            "hangul": "나누다",
+            "romanized": "nanuda"
+        },
+        {
+            "id": "330",
+            "meaning": "Value",
+            "hangul": "값",
+            "romanized": "gabs"
+        },
+        {
+            "id": "331",
+            "meaning": "End",
+            "hangul": "끝",
+            "romanized": "kkeut"
+        },
+        {
+            "id": "332",
+            "meaning": "Health",
+            "hangul": "건강",
+            "romanized": "geongang"
+        },
+        {
+            "id": "333",
+            "meaning": "Go To",
+            "hangul": "다녀오다",
+            "romanized": "danyeooda"
+        },
+        {
+            "id": "334",
+            "meaning": "Cat",
+            "hangul": "고양이",
+            "romanized": "goyang-i"
+        },
+        {
+            "id": "335",
+            "meaning": "Number Of People",
+            "hangul": "명",
+            "romanized": "myeong"
+        },
+        {
+            "id": "336",
+            "meaning": "Carrot",
+            "hangul": "당근",
+            "romanized": "dang-geun"
+        },
+        {
+            "id": "337",
+            "meaning": "Hungry",
+            "hangul": "배고프다",
+            "romanized": "baegopeuda"
+        },
+        {
+            "id": "338",
+            "meaning": "Thing",
+            "hangul": "물건",
+            "romanized": "mulgeon"
+        },
+        {
+            "id": "339",
+            "meaning": "Just",
+            "hangul": "만",
+            "romanized": "man"
+        },
+        {
+            "id": "340",
+            "meaning": "Delivery",
+            "hangul": "배달",
+            "romanized": "baedal"
+        },
+        {
+            "id": "341",
+            "meaning": "Speak",
+            "hangul": "말씀하다",
+            "romanized": "malsseumhada"
+        },
+        {
+            "id": "342",
+            "meaning": "Right Away",
+            "hangul": "바로",
+            "romanized": "balo"
+        },
+        {
+            "id": "343",
+            "meaning": "Thirty",
+            "hangul": "삼십",
+            "romanized": "samsib"
+        },
+        {
+            "id": "344",
+            "meaning": "Necklace",
+            "hangul": "목걸이",
+            "romanized": "moggeol-i"
+        },
+        {
+            "id": "345",
+            "meaning": "Red",
+            "hangul": "빨간색",
+            "romanized": "ppalgansaeg"
+        },
+        {
+            "id": "346",
+            "meaning": "Applause",
+            "hangul": "박수",
+            "romanized": "bagsu"
+        },
+        {
+            "id": "347",
+            "meaning": "Shave",
+            "hangul": "면도",
+            "romanized": "myeondo"
+        },
+        {
+            "id": "348",
+            "meaning": "Song",
+            "hangul": "가요",
+            "romanized": "gayo"
+        },
+        {
+            "id": "349",
+            "meaning": "Galbitang",
+            "hangul": "갈비탕",
+            "romanized": "galbitang"
+        },
+        {
+            "id": "350",
+            "meaning": "Conversation",
+            "hangul": "대화",
+            "romanized": "daehwa"
+        },
+        {
+            "id": "351",
+            "meaning": "Oil",
+            "hangul": "기름",
+            "romanized": "gileum"
+        },
+        {
+            "id": "352",
+            "meaning": "Player",
+            "hangul": "선수",
+            "romanized": "seonsu"
+        },
+        {
+            "id": "353",
+            "meaning": "Cherry Blossom",
+            "hangul": "벚꽃",
+            "romanized": "beojkkoch"
+        },
+        {
+            "id": "354",
+            "meaning": "Boy",
+            "hangul": "남학생",
+            "romanized": "namhagsaeng"
+        },
+        {
+            "id": "355",
+            "meaning": "Holiday",
+            "hangul": "명절",
+            "romanized": "myeongjeol"
+        },
+        {
+            "id": "356",
+            "meaning": "To Wipe",
+            "hangul": "닦다",
+            "romanized": "dakkda"
+        },
+        {
+            "id": "357",
+            "meaning": "Temperatures",
+            "hangul": "기온",
+            "romanized": "gion"
+        },
+        {
+            "id": "358",
+            "meaning": "Take Away",
+            "hangul": "가져가다",
+            "romanized": "gajyeogada"
+        },
+        {
+            "id": "359",
+            "meaning": "Fire",
+            "hangul": "불",
+            "romanized": "bul"
+        },
+        {
+            "id": "360",
+            "meaning": "All",
+            "hangul": "다",
+            "romanized": "da"
+        },
+        {
+            "id": "361",
+            "meaning": "You",
+            "hangul": "너",
+            "romanized": "neo"
+        },
+        {
+            "id": "362",
+            "meaning": "Well",
+            "hangul": "글쎄요",
+            "romanized": "geulsseyo"
+        },
+        {
+            "id": "363",
+            "meaning": "Sandwich",
+            "hangul": "샌드위치",
+            "romanized": "saendeuwichi"
+        },
+        {
+            "id": "364",
+            "meaning": "Abstinence",
+            "hangul": "금주",
+            "romanized": "geumju"
+        },
+        {
+            "id": "365",
+            "meaning": "Hiking Boots",
+            "hangul": "등산화",
+            "romanized": "deungsanhwa"
+        },
+        {
+            "id": "366",
+            "meaning": "Who",
+            "hangul": "누구",
+            "romanized": "nugu"
+        },
+        {
+            "id": "367",
+            "meaning": "Uncle",
+            "hangul": "고모부",
+            "romanized": "gomobu"
+        },
+        {
+            "id": "368",
+            "meaning": "Bird",
+            "hangul": "새",
+            "romanized": "sae"
+        },
+        {
+            "id": "369",
+            "meaning": "To Cross Over",
+            "hangul": "건너다",
+            "romanized": "geonneoda"
+        },
+        {
+            "id": "370",
+            "meaning": "Daughter",
+            "hangul": "딸",
+            "romanized": "ttal"
+        },
+        {
+            "id": "371",
+            "meaning": "Same",
+            "hangul": "같다",
+            "romanized": "gatda"
+        },
+        {
+            "id": "372",
+            "meaning": "Simple",
+            "hangul": "간단하다",
+            "romanized": "gandanhada"
+        },
+        {
+            "id": "373",
+            "meaning": "Bag",
+            "hangul": "봉지",
+            "romanized": "bongji"
+        },
+        {
+            "id": "374",
+            "meaning": "Thick",
+            "hangul": "두껍다",
+            "romanized": "dukkeobda"
+        },
+        {
+            "id": "375",
+            "meaning": "DVD",
+            "hangul": "디브이디",
+            "romanized": "dibeu-idi"
+        },
+        {
+            "id": "376",
+            "meaning": "Shoes",
+            "hangul": "구두",
+            "romanized": "gudu"
+        },
+        {
+            "id": "377",
+            "meaning": "Dip",
+            "hangul": "담그다",
+            "romanized": "damgeuda"
+        },
+        {
+            "id": "378",
+            "meaning": "At The Time",
+            "hangul": "때",
+            "romanized": "ttae"
+        },
+        {
+            "id": "379",
+            "meaning": "Tofu",
+            "hangul": "두부",
+            "romanized": "dubu"
+        },
+        {
+            "id": "380",
+            "meaning": "Far",
+            "hangul": "멀다",
+            "romanized": "meolda"
+        },
+        {
+            "id": "381",
+            "meaning": "Suck",
+            "hangul": "빨다",
+            "romanized": "ppalda"
+        },
+        {
+            "id": "382",
+            "meaning": "Soon",
+            "hangul": "곧",
+            "romanized": "god"
+        },
+        {
+            "id": "383",
+            "meaning": "Lie",
+            "hangul": "거짓말",
+            "romanized": "geojismal"
+        },
+        {
+            "id": "384",
+            "meaning": "Happy",
+            "hangul": "기쁘다",
+            "romanized": "gippeuda"
+        },
+        {
+            "id": "385",
+            "meaning": "Snack",
+            "hangul": "간식",
+            "romanized": "gansig"
+        },
+        {
+            "id": "386",
+            "meaning": "To Happen",
+            "hangul": "생기다",
+            "romanized": "saeng-gida"
+        },
+        {
+            "id": "387",
+            "meaning": "Nurse",
+            "hangul": "간호사",
+            "romanized": "ganhosa"
+        },
+        {
+            "id": "388",
+            "meaning": "Get Married",
+            "hangul": "결혼하다",
+            "romanized": "gyeolhonhada"
+        },
+        {
+            "id": "389",
+            "meaning": "Decide",
+            "hangul": "결정하다",
+            "romanized": "gyeoljeonghada"
+        },
+        {
+            "id": "390",
+            "meaning": "Video",
+            "hangul": "비디오",
+            "romanized": "bidio"
+        },
+        {
+            "id": "391",
+            "meaning": "End",
+            "hangul": "끝나다",
+            "romanized": "kkeutnada"
+        },
+        {
+            "id": "392",
+            "meaning": "Sneeze",
+            "hangul": "기침",
+            "romanized": "gichim"
+        },
+        {
+            "id": "393",
+            "meaning": "Live",
+            "hangul": "살다",
+            "romanized": "salda"
+        },
+        {
+            "id": "394",
+            "meaning": "Russia",
+            "hangul": "러시아",
+            "romanized": "leosia"
+        },
+        {
+            "id": "395",
+            "meaning": "September",
+            "hangul": "구월",
+            "romanized": "guwol"
+        },
+        {
+            "id": "396",
+            "meaning": "Egg",
+            "hangul": "계란",
+            "romanized": "gyelan"
+        },
+        {
+            "id": "397",
+            "meaning": "Germany",
+            "hangul": "독일",
+            "romanized": "dog-il"
+        },
+        {
+            "id": "398",
+            "meaning": "Yellow",
+            "hangul": "노란색",
+            "romanized": "nolansaeg"
+        },
+        {
+            "id": "399",
+            "meaning": "Or",
+            "hangul": "또는",
+            "romanized": "ttoneun"
+        },
+        {
+            "id": "400",
+            "meaning": "Hit",
+            "hangul": "맞다",
+            "romanized": "majda"
+        },
+        {
+            "id": "401",
+            "meaning": "Choose",
+            "hangul": "고르다",
+            "romanized": "goleuda"
+        },
+        {
+            "id": "402",
+            "meaning": "Sweat",
+            "hangul": "땀",
+            "romanized": "ttam"
+        },
+        {
+            "id": "403",
+            "meaning": "Already",
+            "hangul": "미리",
+            "romanized": "mili"
+        },
+        {
+            "id": "404",
+            "meaning": "Cloud",
+            "hangul": "구름",
+            "romanized": "guleum"
+        },
+        {
+            "id": "405",
+            "meaning": "Street",
+            "hangul": "거리",
+            "romanized": "geoli"
+        },
+        {
+            "id": "406",
+            "meaning": "Transfer",
+            "hangul": "갈아타다",
+            "romanized": "gal-atada"
+        },
+        {
+            "id": "407",
+            "meaning": "Fish",
+            "hangul": "생선",
+            "romanized": "saengseon"
+        },
+        {
+            "id": "408",
+            "meaning": "Kimchi",
+            "hangul": "김치",
+            "romanized": "kimchi"
+        },
+        {
+            "id": "409",
+            "meaning": "Mirror",
+            "hangul": "거울",
+            "romanized": "geoul"
+        },
+        {
+            "id": "410",
+            "meaning": "Play",
+            "hangul": "놀다",
+            "romanized": "nolda"
+        },
+        {
+            "id": "411",
+            "meaning": "Samgyetang",
+            "hangul": "삼계탕",
+            "romanized": "samgyetang"
+        },
+        {
+            "id": "412",
+            "meaning": "Halfmoon",
+            "hangul": "반달",
+            "romanized": "bandal"
+        },
+        {
+            "id": "413",
+            "meaning": "Life",
+            "hangul": "생활",
+            "romanized": "saenghwal"
+        },
+        {
+            "id": "414",
+            "meaning": "Come Out",
+            "hangul": "나오다",
+            "romanized": "naoda"
+        },
+        {
+            "id": "415",
+            "meaning": "Spicy",
+            "hangul": "맵다",
+            "romanized": "maebda"
+        },
+        {
+            "id": "416",
+            "meaning": "Real Estate",
+            "hangul": "부동산",
+            "romanized": "budongsan"
+        },
+        {
+            "id": "417",
+            "meaning": "What",
+            "hangul": "무엇이",
+            "romanized": "mueos-i"
+        },
+        {
+            "id": "418",
+            "meaning": "Receive",
+            "hangul": "받다",
+            "romanized": "badda"
+        },
+        {
+            "id": "419",
+            "meaning": "Song",
+            "hangul": "노래",
+            "romanized": "nolae"
+        },
+        {
+            "id": "420",
+            "meaning": "Birthday",
+            "hangul": "생신",
+            "romanized": "saengsin"
+        },
+        {
+            "id": "421",
+            "meaning": "Help",
+            "hangul": "도움",
+            "romanized": "doum"
+        },
+        {
+            "id": "422",
+            "meaning": "Love",
+            "hangul": "사랑하다",
+            "romanized": "salanghada"
+        },
+        {
+            "id": "423",
+            "meaning": "Number Of Animals",
+            "hangul": "마리",
+            "romanized": "mali"
+        },
+        {
+            "id": "424",
+            "meaning": "University",
+            "hangul": "대학",
+            "romanized": "daehag"
+        },
+        {
+            "id": "425",
+            "meaning": "Thirty",
+            "hangul": "서른",
+            "romanized": "seoleun"
+        },
+        {
+            "id": "426",
+            "meaning": "Ability",
+            "hangul": "능력",
+            "romanized": "neunglyeog"
+        },
+        {
+            "id": "427",
+            "meaning": "Show",
+            "hangul": "보이다",
+            "romanized": "boida"
+        },
+        {
+            "id": "428",
+            "meaning": "Color",
+            "hangul": "색깔",
+            "romanized": "saegkkal"
+        },
+        {
+            "id": "429",
+            "meaning": "Persimmon",
+            "hangul": "감",
+            "romanized": "gam"
+        },
+        {
+            "id": "430",
+            "meaning": "Mountain",
+            "hangul": "산",
+            "romanized": "san"
+        },
+        {
+            "id": "431",
+            "meaning": "Theater",
+            "hangul": "극장",
+            "romanized": "geugjang"
+        },
+        {
+            "id": "432",
+            "meaning": "Bridge",
+            "hangul": "다리",
+            "romanized": "dali"
+        },
+        {
+            "id": "433",
+            "meaning": "Eat",
+            "hangul": "드시다",
+            "romanized": "deusida"
+        },
+        {
+            "id": "434",
+            "meaning": "Ball",
+            "hangul": "공",
+            "romanized": "gong"
+        },
+        {
+            "id": "435",
+            "meaning": "South",
+            "hangul": "남쪽",
+            "romanized": "namjjog"
+        },
+        {
+            "id": "436",
+            "meaning": "Enter",
+            "hangul": "들어가다",
+            "romanized": "deul-eogada"
+        },
+        {
+            "id": "437",
+            "meaning": "Bring",
+            "hangul": "가져오다",
+            "romanized": "gajyeooda"
+        },
+        {
+            "id": "438",
+            "meaning": "Come Back",
+            "hangul": "돌아오다",
+            "romanized": "dol-aoda"
+        },
+        {
+            "id": "439",
+            "meaning": "High School Student",
+            "hangul": "고등학생",
+            "romanized": "godeunghagsaeng"
+        },
+        {
+            "id": "440",
+            "meaning": "Simply",
+            "hangul": "간단히",
+            "romanized": "gandanhi"
+        },
+        {
+            "id": "441",
+            "meaning": "Hang",
+            "hangul": "걸리다",
+            "romanized": "geollida"
+        },
+        {
+            "id": "442",
+            "meaning": "Scissors",
+            "hangul": "가위",
+            "romanized": "gawi"
+        },
+        {
+            "id": "443",
+            "meaning": "Lay Down",
+            "hangul": "눕다",
+            "romanized": "nubda"
+        },
+        {
+            "id": "444",
+            "meaning": "Gram",
+            "hangul": "그램",
+            "romanized": "geulaem"
+        },
+        {
+            "id": "445",
+            "meaning": "Busy",
+            "hangul": "바쁘다",
+            "romanized": "bappeuda"
+        },
+        {
+            "id": "446",
+            "meaning": "To Appear",
+            "hangul": "나타나다",
+            "romanized": "natanada"
+        },
+        {
+            "id": "447",
+            "meaning": "Mood",
+            "hangul": "기분",
+            "romanized": "gibun"
+        },
+        {
+            "id": "448",
+            "meaning": "Follow",
+            "hangul": "따르다",
+            "romanized": "ttaleuda"
+        },
+        {
+            "id": "449",
+            "meaning": "Stand",
+            "hangul": "서다",
+            "romanized": "seoda"
+        },
+        {
+            "id": "450",
+            "meaning": "Borrow",
+            "hangul": "빌리다",
+            "romanized": "billida"
+        },
+        {
+            "id": "451",
+            "meaning": "Airplane",
+            "hangul": "비행기",
+            "romanized": "bihaeng-gi"
+        },
+        {
+            "id": "452",
+            "meaning": "Soybean paste soup",
+            "hangul": "된장국",
+            "romanized": "doenjang-gug"
+        },
+        {
+            "id": "453",
+            "meaning": "Hope",
+            "hangul": "바라다",
+            "romanized": "balada"
+        },
+        {
+            "id": "454",
+            "meaning": "Radio",
+            "hangul": "라디오",
+            "romanized": "ladio"
+        },
+        {
+            "id": "455",
+            "meaning": "Tteokbokki",
+            "hangul": "떡볶이",
+            "romanized": "tteogbokk-i"
+        },
+        {
+            "id": "456",
+            "meaning": "Then",
+            "hangul": "그럼",
+            "romanized": "geuleom"
+        },
+        {
+            "id": "457",
+            "meaning": "Accident",
+            "hangul": "사고",
+            "romanized": "sago"
+        },
+        {
+            "id": "458",
+            "meaning": "Karaoke",
+            "hangul": "노래방",
+            "romanized": "nolaebang"
+        },
+        {
+            "id": "459",
+            "meaning": "Okay",
+            "hangul": "괜찮다",
+            "romanized": "gwaenchanhda"
+        },
+        {
+            "id": "460",
+            "meaning": "Beg",
+            "hangul": "부탁하다",
+            "romanized": "butaghada"
+        },
+        {
+            "id": "461",
+            "meaning": "Foot",
+            "hangul": "발",
+            "romanized": "bal"
+        },
+        {
+            "id": "462",
+            "meaning": "Korean",
+            "hangul": "국어",
+            "romanized": "gug-eo"
+        },
+        {
+            "id": "463",
+            "meaning": "University",
+            "hangul": "대학교",
+            "romanized": "daehaggyo"
+        },
+        {
+            "id": "464",
+            "meaning": "Lawyer",
+            "hangul": "변호사",
+            "romanized": "byeonhosa"
+        },
+        {
+            "id": "465",
+            "meaning": "Get Off",
+            "hangul": "떨어지다",
+            "romanized": "tteol-eojida"
+        },
+        {
+            "id": "466",
+            "meaning": "Attach",
+            "hangul": "붙이다",
+            "romanized": "but-ida"
+        },
+        {
+            "id": "467",
+            "meaning": "Friday",
+            "hangul": "금요일",
+            "romanized": "geum-yoil"
+        },
+        {
+            "id": "468",
+            "meaning": "Sentence",
+            "hangul": "문장",
+            "romanized": "munjang"
+        },
+        {
+            "id": "469",
+            "meaning": "High School",
+            "hangul": "고등학교",
+            "romanized": "godeunghaggyo"
+        },
+        {
+            "id": "470",
+            "meaning": "Gyeongbokgung",
+            "hangul": "경복궁",
+            "romanized": "gyeongboggung"
+        },
+        {
+            "id": "471",
+            "meaning": "Not Really",
+            "hangul": "별로",
+            "romanized": "byeollo"
+        },
+        {
+            "id": "472",
+            "meaning": "Take Out",
+            "hangul": "꺼내다",
+            "romanized": "kkeonaeda"
+        },
+        {
+            "id": "473",
+            "meaning": "Feeling",
+            "hangul": "느낌",
+            "romanized": "neukkim"
+        },
+        {
+            "id": "474",
+            "meaning": "Boil",
+            "hangul": "끓이다",
+            "romanized": "kkeulh-ida"
+        },
+        {
+            "id": "475",
+            "meaning": "Western",
+            "hangul": "서양",
+            "romanized": "seoyang"
+        },
+        {
+            "id": "476",
+            "meaning": "Go Down",
+            "hangul": "내려오다",
+            "romanized": "naelyeooda"
+        },
+        {
+            "id": "477",
+            "meaning": "Get",
+            "hangul": "구하다",
+            "romanized": "guhada"
+        },
+        {
+            "id": "478",
+            "meaning": "Wedding Ceremony",
+            "hangul": "결혼식",
+            "romanized": "gyeolhonsig"
+        },
+        {
+            "id": "479",
+            "meaning": "That Day",
+            "hangul": "그날",
+            "romanized": "geunal"
+        },
+        {
+            "id": "480",
+            "meaning": "Ship",
+            "hangul": "배",
+            "romanized": "bae"
+        },
+        {
+            "id": "481",
+            "meaning": "Put",
+            "hangul": "두다",
+            "romanized": "duda"
+        },
+        {
+            "id": "482",
+            "meaning": "Bookstore",
+            "hangul": "서점",
+            "romanized": "seojeom"
+        },
+        {
+            "id": "483",
+            "meaning": "Camera",
+            "hangul": "사진기",
+            "romanized": "sajingi"
+        },
+        {
+            "id": "484",
+            "meaning": "Etc",
+            "hangul": "등",
+            "romanized": "deung"
+        },
+        {
+            "id": "485",
+            "meaning": "Golf",
+            "hangul": "골프",
+            "romanized": "golpeu"
+        },
+        {
+            "id": "486",
+            "meaning": "Thank You",
+            "hangul": "감사드립니다",
+            "romanized": "gamsadeulibnida"
+        },
+        {
+            "id": "487",
+            "meaning": "Therefore",
+            "hangul": "그러니까",
+            "romanized": "geuleonikka"
+        },
+        {
+            "id": "488",
+            "meaning": "Liver",
+            "hangul": "간",
+            "romanized": "gan"
+        },
+        {
+            "id": "489",
+            "meaning": "Game",
+            "hangul": "경기",
+            "romanized": "gyeong-gi"
+        },
+        {
+            "id": "490",
+            "meaning": "Class",
+            "hangul": "급",
+            "romanized": "geub"
+        },
+        {
+            "id": "491",
+            "meaning": "Tteokguk",
+            "hangul": "떡국",
+            "romanized": "tteoggug"
+        },
+        {
+            "id": "492",
+            "meaning": "Married Couple",
+            "hangul": "부부",
+            "romanized": "bubu"
+        },
+        {
+            "id": "493",
+            "meaning": "",
+            "hangul": "거의",
+            "romanized": "geoui"
+        },
+        {
+            "id": "494",
+            "meaning": "Mountain Climbing",
+            "hangul": "등산",
+            "romanized": "deungsan"
+        },
+        {
+            "id": "495",
+            "meaning": "Library",
+            "hangul": "도서관",
+            "romanized": "doseogwan"
+        },
+        {
+            "id": "496",
+            "meaning": "Fast",
+            "hangul": "빠르다",
+            "romanized": "ppaleuda"
+        },
+        {
+            "id": "497",
+            "meaning": "Peach",
+            "hangul": "복숭아",
+            "romanized": "bogsung-a"
+        },
+        {
+            "id": "498",
+            "meaning": "Ceo/President",
+            "hangul": "사장",
+            "romanized": "sajang"
+        },
+        {
+            "id": "499",
+            "meaning": "Other Side",
+            "hangul": "건너편",
+            "romanized": "geonneopyeon"
+        },
+        {
+            "id": "500",
+            "meaning": "What",
+            "hangul": "무엇",
+            "romanized": "mueot"
+        },
+        {
+            "id": "501",
+            "meaning": "Season",
+            "hangul": "계절",
+            "romanized": "gyejeol"
+        },
+        {
+            "id": "502",
+            "meaning": "Similar",
+            "hangul": "비슷하다",
+            "romanized": "biseushada"
+        },
+        {
+            "id": "503",
+            "meaning": "Three Days",
+            "hangul": "사흘",
+            "romanized": "saheul"
+        },
+        {
+            "id": "504",
+            "meaning": "Pork bone soup",
+            "hangul": "감자탕",
+            "romanized": "gamjatang"
+        },
+        {
+            "id": "505",
+            "meaning": "Shut",
+            "hangul": "닫히다",
+            "romanized": "dadhida"
+        },
+        {
+            "id": "506",
+            "meaning": "Usually",
+            "hangul": "보통",
+            "romanized": "botong"
+        },
+        {
+            "id": "507",
+            "meaning": "Smell",
+            "hangul": "냄새",
+            "romanized": "naemsae"
+        },
+        {
+            "id": "508",
+            "meaning": "Dollar",
+            "hangul": "달러",
+            "romanized": "dalleo"
+        },
+        {
+            "id": "509",
+            "meaning": "Disadvantage",
+            "hangul": "단점",
+            "romanized": "danjeom"
+        },
+        {
+            "id": "510",
+            "meaning": "There",
+            "hangul": "거기",
+            "romanized": "geogi"
+        },
+        {
+            "id": "511",
+            "meaning": "Same",
+            "hangul": "똑같다",
+            "romanized": "ttoggatda"
+        },
+        {
+            "id": "512",
+            "meaning": "Calling",
+            "hangul": "부르다",
+            "romanized": "buleuda"
+        },
+        {
+            "id": "513",
+            "meaning": "Remember",
+            "hangul": "기억하다",
+            "romanized": "gieoghada"
+        },
+        {
+            "id": "514",
+            "meaning": "Home",
+            "hangul": "댁",
+            "romanized": "daeg"
+        },
+        {
+            "id": "515",
+            "meaning": "Love",
+            "hangul": "사랑",
+            "romanized": "salang"
+        },
+        {
+            "id": "516",
+            "meaning": "Cultivate",
+            "hangul": "기르다",
+            "romanized": "gileuda"
+        },
+        {
+            "id": "517",
+            "meaning": "Pants",
+            "hangul": "바지",
+            "romanized": "baji"
+        },
+        {
+            "id": "518",
+            "meaning": "Red",
+            "hangul": "빨갛다",
+            "romanized": "ppalgahda"
+        },
+        {
+            "id": "519",
+            "meaning": "I",
+            "hangul": "내가",
+            "romanized": "naega"
+        },
+        {
+            "id": "520",
+            "meaning": "Radish",
+            "hangul": "무",
+            "romanized": "mu"
+        },
+        {
+            "id": "521",
+            "meaning": "Male And Female",
+            "hangul": "남녀",
+            "romanized": "namnyeo"
+        },
+        {
+            "id": "522",
+            "meaning": "Calendar",
+            "hangul": "달력",
+            "romanized": "dallyeog"
+        },
+        {
+            "id": "523",
+            "meaning": "Two",
+            "hangul": "두",
+            "romanized": "du"
+        },
+        {
+            "id": "524",
+            "meaning": "Three",
+            "hangul": "삼",
+            "romanized": "sam"
+        },
+        {
+            "id": "525",
+            "meaning": "Return",
+            "hangul": "돌아가다",
+            "romanized": "dol-agada"
+        },
+        {
+            "id": "526",
+            "meaning": "Bath",
+            "hangul": "목욕",
+            "romanized": "mog-yog"
+        },
+        {
+            "id": "527",
+            "meaning": "Experience",
+            "hangul": "경험",
+            "romanized": "gyeongheom"
+        },
+        {
+            "id": "528",
+            "meaning": "Broadcast Stations",
+            "hangul": "방송국",
+            "romanized": "bangsong-gug"
+        },
+        {
+            "id": "529",
+            "meaning": "News",
+            "hangul": "뉴스",
+            "romanized": "nyuseu"
+        },
+        {
+            "id": "530",
+            "meaning": "Few Days",
+            "hangul": "며칠",
+            "romanized": "myeochil"
+        },
+        {
+            "id": "531",
+            "meaning": "Take A Shower",
+            "hangul": "샤워하다",
+            "romanized": "syawohada"
+        },
+        {
+            "id": "532",
+            "meaning": "Younger Brother",
+            "hangul": "남동생",
+            "romanized": "namdongsaeng"
+        },
+        {
+            "id": "533",
+            "meaning": "Sweet",
+            "hangul": "달다",
+            "romanized": "dalda"
+        },
+        {
+            "id": "534",
+            "meaning": "Gather",
+            "hangul": "모이다",
+            "romanized": "moida"
+        },
+        {
+            "id": "535",
+            "meaning": "Black",
+            "hangul": "까맣다",
+            "romanized": "kkamahda"
+        },
+        {
+            "id": "536",
+            "meaning": "Help",
+            "hangul": "도와주다",
+            "romanized": "dowajuda"
+        },
+        {
+            "id": "537",
+            "meaning": "Folk Village",
+            "hangul": "민속촌",
+            "romanized": "minsogchon"
+        },
+        {
+            "id": "538",
+            "meaning": "Press Down",
+            "hangul": "누르다",
+            "romanized": "nuleuda"
+        },
+        {
+            "id": "539",
+            "meaning": "Carry",
+            "hangul": "메다",
+            "romanized": "meda"
+        },
+        {
+            "id": "540",
+            "meaning": "Trade",
+            "hangul": "무역",
+            "romanized": "muyeog"
+        },
+        {
+            "id": "541",
+            "meaning": "Blocked",
+            "hangul": "막히다",
+            "romanized": "maghida"
+        },
+        {
+            "id": "542",
+            "meaning": "Diet",
+            "hangul": "다이어트",
+            "romanized": "daieoteu"
+        },
+        {
+            "id": "543",
+            "meaning": "Thank You",
+            "hangul": "감사합니다",
+            "romanized": "gamsahabnida"
+        },
+        {
+            "id": "544",
+            "meaning": "Get Worse",
+            "hangul": "나빠지다",
+            "romanized": "nappajida"
+        },
+        {
+            "id": "545",
+            "meaning": "Town",
+            "hangul": "동네",
+            "romanized": "dongne"
+        },
+        {
+            "id": "546",
+            "meaning": "Behind",
+            "hangul": "뒤쪽",
+            "romanized": "dwijjog"
+        },
+        {
+            "id": "547",
+            "meaning": "Sure",
+            "hangul": "물론",
+            "romanized": "mullon"
+        },
+        {
+            "id": "548",
+            "meaning": "I Do Not Know",
+            "hangul": "모르겠습니다",
+            "romanized": "moreugessseubnida"
+        },
+        {
+            "id": "549",
+            "meaning": "Answer",
+            "hangul": "대답하다",
+            "romanized": "daedabhada"
+        },
+        {
+            "id": "550",
+            "meaning": "Secret",
+            "hangul": "비밀",
+            "romanized": "Bimil"
+        },
+        {
+            "id": "551",
+            "meaning": "Impression",
+            "hangul": "감동",
+            "romanized": "Gamdong"
+        },
+        {
+            "id": "552",
+            "meaning": "Pour",
+            "hangul": "붓다",
+            "romanized": "Busda"
+        },
+        {
+            "id": "553",
+            "meaning": "Space",
+            "hangul": "공간",
+            "romanized": "Gong-Gan"
+        },
+        {
+            "id": "554",
+            "meaning": "It",
+            "hangul": "그거",
+            "romanized": "Geugeo"
+        },
+        {
+            "id": "555",
+            "meaning": "Fall Down",
+            "hangul": "넘어지다",
+            "romanized": "Neom-Eojida"
+        },
+        {
+            "id": "556",
+            "meaning": "Fourth",
+            "hangul": "넷째",
+            "romanized": "Nesjjae"
+        },
+        {
+            "id": "557",
+            "meaning": "Thank You",
+            "hangul": "고맙습니다",
+            "romanized": "Gomabseubnida"
+        },
+        {
+            "id": "558",
+            "meaning": "Healthy",
+            "hangul": "건강하다",
+            "romanized": "Geonganghada"
+        },
+        {
+            "id": "559",
+            "meaning": "Advertisement",
+            "hangul": "광고",
+            "romanized": "Gwang-Go"
+        },
+        {
+            "id": "560",
+            "meaning": "Snow Man",
+            "hangul": "눈사람",
+            "romanized": "Nunsalam"
+        },
+        {
+            "id": "561",
+            "meaning": "Stairs",
+            "hangul": "계단",
+            "romanized": "Gyedan"
+        },
+        {
+            "id": "562",
+            "meaning": "Party",
+            "hangul": "병",
+            "romanized": "Byeong"
+        },
+        {
+            "id": "563",
+            "meaning": "Request",
+            "hangul": "부탁",
+            "romanized": "Butag"
+        },
+        {
+            "id": "564",
+            "meaning": "Cousin",
+            "hangul": "사촌",
+            "romanized": "Sachon"
+        },
+        {
+            "id": "565",
+            "meaning": "Okay",
+            "hangul": "그래",
+            "romanized": "Geulae"
+        },
+        {
+            "id": "566",
+            "meaning": "Draw",
+            "hangul": "그리다",
+            "romanized": "Geulida"
+        },
+        {
+            "id": "567",
+            "meaning": "Stationery",
+            "hangul": "문구점",
+            "romanized": "Mungujeom"
+        },
+        {
+            "id": "568",
+            "meaning": "Building",
+            "hangul": "건물",
+            "romanized": "Geonmul"
+        },
+        {
+            "id": "569",
+            "meaning": "Actor",
+            "hangul": "배우",
+            "romanized": "Baeu"
+        },
+        {
+            "id": "570",
+            "meaning": "Mind",
+            "hangul": "마음",
+            "romanized": "Ma-Eum"
+        },
+        {
+            "id": "571",
+            "meaning": "Dream",
+            "hangul": "꾸다",
+            "romanized": "Kkuda"
+        },
+        {
+            "id": "572",
+            "meaning": "Fine",
+            "hangul": "괜찮습니다",
+            "romanized": "Gwaenchanhseubnida"
+        },
+        {
+            "id": "573",
+            "meaning": "Chewing Gum",
+            "hangul": "껌",
+            "romanized": "Kkeom"
+        },
+        {
+            "id": "574",
+            "meaning": "Then",
+            "hangul": "그러면",
+            "romanized": "Geuleomyeon"
+        },
+        {
+            "id": "575",
+            "meaning": "Meet",
+            "hangul": "만나다",
+            "romanized": "Mannada"
+        },
+        {
+            "id": "576",
+            "meaning": "Thing",
+            "hangul": "것",
+            "romanized": "Geos"
+        },
+        {
+            "id": "577",
+            "meaning": "Take Off",
+            "hangul": "벗다",
+            "romanized": "Beosda"
+        },
+        {
+            "id": "578",
+            "meaning": "Body",
+            "hangul": "몸",
+            "romanized": "Mom"
+        },
+        {
+            "id": "579",
+            "meaning": "Beach",
+            "hangul": "바닷가",
+            "romanized": "Badasga"
+        },
+        {
+            "id": "580",
+            "meaning": "Shape",
+            "hangul": "모양",
+            "romanized": "Moyang"
+        },
+        {
+            "id": "581",
+            "meaning": "Reply",
+            "hangul": "답장",
+            "romanized": "Dabjang"
+        },
+        {
+            "id": "582",
+            "meaning": "Green Tea",
+            "hangul": "녹차",
+            "romanized": "Nogcha"
+        },
+        {
+            "id": "583",
+            "meaning": "Arrive",
+            "hangul": "도착하다",
+            "romanized": "Dochaghada"
+        },
+        {
+            "id": "584",
+            "meaning": "North",
+            "hangul": "북쪽",
+            "romanized": "Bugjjog"
+        },
+        {
+            "id": "585",
+            "meaning": "Cold Noodles",
+            "hangul": "냉면",
+            "romanized": "Naengmyeon"
+        },
+        {
+            "id": "586",
+            "meaning": "Run",
+            "hangul": "뛰다",
+            "romanized": "Ttwida"
+        },
+        {
+            "id": "587",
+            "meaning": "What",
+            "hangul": "뭐",
+            "romanized": "Mwo"
+        },
+        {
+            "id": "588",
+            "meaning": "Him",
+            "hangul": "그분",
+            "romanized": "Geubun"
+        },
+        {
+            "id": "589",
+            "meaning": "Have",
+            "hangul": "가지다",
+            "romanized": "Gajida"
+        },
+        {
+            "id": "590",
+            "meaning": "But",
+            "hangul": "그렇지만",
+            "romanized": "Geuleohjiman"
+        },
+        {
+            "id": "591",
+            "meaning": "Forsythia",
+            "hangul": "개나리",
+            "romanized": "Gaenali"
+        },
+        {
+            "id": "592",
+            "meaning": "Violin",
+            "hangul": "바이올린",
+            "romanized": "Baiollin"
+        },
+        {
+            "id": "593",
+            "meaning": "Pretty",
+            "hangul": "곱다",
+            "romanized": "Gobda"
+        },
+        {
+            "id": "594",
+            "meaning": "Dongdaemun Market",
+            "hangul": "동대문시장",
+            "romanized": "Dongdaemunsijang"
+        },
+        {
+            "id": "595",
+            "meaning": "Leave",
+            "hangul": "남기다",
+            "romanized": "Namgida"
+        },
+        {
+            "id": "596",
+            "meaning": "That’s Right",
+            "hangul": "그렇습니다",
+            "romanized": "Geuleohseubnida"
+        },
+        {
+            "id": "597",
+            "meaning": "Refrigerator",
+            "hangul": "냉장고",
+            "romanized": "Naengjang-Go"
+        },
+        {
+            "id": "598",
+            "meaning": "Be Noisy",
+            "hangul": "떠들다",
+            "romanized": "Tteodeulda"
+        },
+        {
+            "id": "599",
+            "meaning": "Case",
+            "hangul": "사례",
+            "romanized": "Salye"
+        },
+        {
+            "id": "600",
+            "meaning": "Age",
+            "hangul": "나이",
+            "romanized": "Nai"
+        },
+        {
+            "id": "601",
+            "meaning": "Hat",
+            "hangul": "모자",
+            "romanized": "Moja"
+        },
+        {
+            "id": "602",
+            "meaning": "Grow",
+            "hangul": "나다",
+            "romanized": "Nada"
+        },
+        {
+            "id": "603",
+            "meaning": "Knee",
+            "hangul": "무릎",
+            "romanized": "Muleup"
+        },
+        {
+            "id": "604",
+            "meaning": "Very",
+            "hangul": "무척",
+            "romanized": "Mucheog"
+        },
+        {
+            "id": "605",
+            "meaning": "Male",
+            "hangul": "남",
+            "romanized": "Nam"
+        },
+        {
+            "id": "606",
+            "meaning": "Reporter",
+            "hangul": "기자",
+            "romanized": "Gija"
+        },
+        {
+            "id": "607",
+            "meaning": "Fry",
+            "hangul": "볶다",
+            "romanized": "Bokkda"
+        },
+        {
+            "id": "608",
+            "meaning": "Salon",
+            "hangul": "미용실",
+            "romanized": "Miyongsil"
+        },
+        {
+            "id": "609",
+            "meaning": "Yes",
+            "hangul": "그렇다",
+            "romanized": "Geuleohda"
+        },
+        {
+            "id": "610",
+            "meaning": "That",
+            "hangul": "그",
+            "romanized": "Geu"
+        },
+        {
+            "id": "611",
+            "meaning": "To Make",
+            "hangul": "만들다",
+            "romanized": "Mandeulda"
+        },
+        {
+            "id": "612",
+            "meaning": "Kimbap",
+            "hangul": "김밥",
+            "romanized": "Gimbab"
+        },
+        {
+            "id": "613",
+            "meaning": "Cheers",
+            "hangul": "건배",
+            "romanized": "Geonbae"
+        },
+        {
+            "id": "614",
+            "meaning": "Express Bus",
+            "hangul": "고속버스",
+            "romanized": "Gosogbeoseu"
+        },
+        {
+            "id": "615",
+            "meaning": "Yellow",
+            "hangul": "노랗다",
+            "romanized": "Nolahda"
+        },
+        {
+            "id": "616",
+            "meaning": "March",
+            "hangul": "삼월",
+            "romanized": "Sam-Wol"
+        },
+        {
+            "id": "617",
+            "meaning": "Across",
+            "hangul": "맞은편",
+            "romanized": "Maj-Eunpyeon"
+        },
+        {
+            "id": "618",
+            "meaning": "Wide",
+            "hangul": "넓다",
+            "romanized": "Neolbda"
+        },
+        {
+            "id": "619",
+            "meaning": "Use",
+            "hangul": "사용하다",
+            "romanized": "Sayonghada"
+        },
+        {
+            "id": "620",
+            "meaning": "Light",
+            "hangul": "가볍다",
+            "romanized": "Gabyeobda"
+        }
+    ]
+}
