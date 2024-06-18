@@ -47,6 +47,7 @@ const JumpingBirdGame = ({ setScore }) => {
         setBirdPosition({ x: 50, y: 50 });
         setUpperPipes([]);
         setLowerPipes([]);
+        setPassedPipes([]);
         setScore(0);
     }
 
