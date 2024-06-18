@@ -6,6 +6,7 @@ import MemoryGamePage from "./Games/MemoryGame";
 import RockPaperScissorsPage from "./Games/RPS";
 import KoreanFlashcardsPage from "./Games/KoreanFlashcards";
 import {MemoryImage, RPSImage, KoreanFlashcardsImage} from "./assets/images";
+import JumpingBirdPage from "./Games/JumpingBird";
 
 function App() {
     const games = [
@@ -25,6 +26,12 @@ function App() {
             path: "/korean-flashcards",
             image: KoreanFlashcardsImage,
             component: KoreanFlashcardsPage
+        },
+        {
+            name: "Jumping Bird",
+            path: "/jumping-bird",
+            image: "https://placehold.co/600x400",
+            component: JumpingBirdPage
         }
     ];
 
