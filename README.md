@@ -5,4 +5,4 @@ This is a collection of simple browser games made using NextJS. They are all pla
 [Play Now!](https://ana117.github.io/web-games/)
 
 ## Games
-1. [Rock Paper Scissors](https://ana117.github.io/web-games/rps)
+1. [Rock Paper Scissors](https://ana117.github.io/web-games/rock-paper-scissors)
