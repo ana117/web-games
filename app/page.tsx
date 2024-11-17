@@ -1,11 +1,29 @@
 "use client";
 
+import Card from "@/components/card";
+import Image from "next/image";
+
+interface GameData {
+	name: string;
+	imagePath: string;
+	url: string;
+}
+
 export default function Home() {
+	const data: GameData[] = [
+		{ name: "Rock Paper Scissors", imagePath: "rps.png", url: "/rock-paper-scissors" },
+	];
+
 	return (
-		<div className="h-full flex items-center justify-center">
-			<h1 className="text-xl">
-				Coming Soon
-			</h1>
+		<div className="h-full flex flex-wrap items-center justify-center gap-8">
+			{data.map((game) => (
+				<Card 
+					key={game.name} 
+					content={<Image src={`/images/${game.imagePath}`} alt={game.name} fill />}
+					linkUrl={game.url}
+					linkText={game.name}
+				/>
+			))}
 		</div>
 	);
 }
