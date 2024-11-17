@@ -17,7 +17,7 @@ export default function Home() {
 			{data.map((game) => (
 				<Card 
 					key={game.name} 
-					content={<Image src={`/images/${game.imagePath}`} alt={game.name} fill />}
+					content={<Image src={`/web-games/images/${game.imagePath}`} alt={game.name} fill />}
 					linkUrl={game.url}
 					linkText={game.name}
 				/>
