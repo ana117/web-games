@@ -1,9 +1,11 @@
+"use client";
+
 export default function Home() {
-  return (
-    <main className="h-screen flex items-center justify-center">
-      <h1>
-        Coming soon!
-      </h1>
-    </main>
-  );
+	return (
+		<div className="h-full flex items-center justify-center">
+			<h1 className="text-xl">
+				Coming Soon
+			</h1>
+		</div>
+	);
 }
