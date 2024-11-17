@@ -1,8 +1,14 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { BiSolidCircle, BiSolidSun, BiSolidMoon } from "react-icons/bi";
 
 export default function DarkModeToggler() {
 	const [darkMode, setDarkMode] = useState(true);
+
+	useEffect(() => {
+		const darkMode = JSON.parse(localStorage.getItem("darkMode") ?? "true");
+		setDarkMode(darkMode);
+		document.documentElement.classList.toggle("dark", darkMode);
+	}, []);
 
 	const toggleDarkMode = () => {
 		setDarkMode((prev) => !prev);

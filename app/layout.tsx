@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
   return (
-    <html lang="en">
+    <html lang="en" className="dark">
       <body className="h-screen px-4 py-8 flex flex-col gap-8 transition-color duration-500">
         <Navbar />
         <main className="grow">
