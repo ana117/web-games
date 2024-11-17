@@ -1,5 +1,3 @@
-"use client";
-
 import Card from "@/components/card";
 import Image from "next/image";
 

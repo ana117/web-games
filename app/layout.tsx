@@ -1,22 +1,18 @@
-"use client";
-
-import { usePathname  } from "next/navigation";
+import { Metadata } from "next";
 import "./globals.css";
 import Navbar from "@/components/navbar";
 
-export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
-  const title = usePathname()
-    .split("/")
-    .filter(Boolean)
-    .pop()
-    ?.split("-")
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
+export const metadata: Metadata = {
+  title: "Web Games",
+  description: "A collection of web games built with Next.js",
+	authors: [{ name: "Ahmad Naufan", url: "https://ana117.github.io/"}],
+};
 
+export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
   return (
     <html lang="en">
-      <body className="h-screen px-4 py-8 flex flex-col gap-8">
-        <Navbar title={title} />
+      <body className="h-screen px-4 py-8 flex flex-col gap-8 transition-color duration-500">
+        <Navbar />
         <main className="grow">
           {children}
         </main>
