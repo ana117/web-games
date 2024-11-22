@@ -49,7 +49,7 @@ export default function RockPaperScissors() {
 	}, [playerChoice, computerChoice]);
 
 	useEffect(() => {
-		const highScore = localStorage.getItem("highScore");
+		const highScore = localStorage.getItem("rpsHighScore");
 		if (highScore) {
 			setHighScore(parseInt(highScore));
 		}
@@ -58,9 +58,9 @@ export default function RockPaperScissors() {
 	useEffect(() => {
 		if (score > highScore) {
 			setHighScore(score);
-			localStorage.setItem("highScore", score.toString());
+			localStorage.setItem("rpsHighScore", score.toString());
 		}
-	}, [score]);
+	}, [score, highScore]);
 
 	return (
 		<div className="flex flex-col items-center gap-8 h-full">
