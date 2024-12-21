@@ -53,7 +53,7 @@ export default function MemoryGame() {
   }
 
   const startGame = () => {
-    if (score > highScore) {
+    if (score < highScore) {
       setHighScore(score);
       localStorage.setItem("memoryHighScore", score.toString());
     }
