@@ -11,6 +11,7 @@ export default function Home() {
 	const data: GameData[] = [
 		{ name: "Rock Paper Scissors", imagePath: "rps.png", url: "/rock-paper-scissors" },
 		{ name: "Memory Game", imagePath: "memory-game.png", url: "/memory-game" },
+		{ name: "Korean Flashcard", imagePath: "korean-flashcard.png", url: "/korean-flashcard" },
 	];
 
 	return (
